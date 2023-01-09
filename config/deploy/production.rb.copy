@@ -1,0 +1,11 @@
+server '', user: '', roles: %w{app web}, port: PORT
+
+set :application, ' APPLICATION_FOLDER_NAME'
+
+set :deploy_to, 'APPLICATION_PATH'
+
+set :repo_url, 'REPO_URL'
+
+set :tmp_dir, '/home/live/tmp'
+
+set :bundle_without, %w{development test}.join(' ')

@@ -1,0 +1,1660 @@
+# Logfile created on 2022-06-03 20:41:55 +0500 by logger.rb/v1.4.2
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-03 20:41:55 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [94fa6152] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [94fa6152] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [94fa6152] Finished in 5.098 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-03 20:44:51 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [714704ed] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [714704ed] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [714704ed] Finished in 2.695 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 100.0%
+  INFO [4afcdd42] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh as live@173.249.30.193
+ DEBUG [4afcdd42] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh
+  INFO [4afcdd42] Finished in 0.511 seconds with exit status 0 (successful).
+  INFO [c4885145] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD as live@173.249.30.193
+ DEBUG [c4885145] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD )
+ DEBUG [c4885145] 	remote: 
+remote: ========================================================================
+remote: 
+remote: The project you were looking for could not be found or you don't have permission to view it.
+remote: 
+remote: ========================================================================
+remote: 
+ DEBUG [c4885145] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-03 20:45:11 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [31c78f68] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [31c78f68] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [31c78f68] Finished in 3.227 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 100.0%
+  INFO [1b91d8c1] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh as live@173.249.30.193
+ DEBUG [1b91d8c1] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh
+  INFO [1b91d8c1] Finished in 0.516 seconds with exit status 0 (successful).
+  INFO [7a7de0b7] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD as live@173.249.30.193
+ DEBUG [7a7de0b7] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD )
+ DEBUG [7a7de0b7] 	remote: 
+remote: ========================================================================
+remote: 
+remote: The project you were looking for could not be found or you don't have permission to view it.
+remote: 
+remote: ========================================================================
+remote: 
+ DEBUG [7a7de0b7] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-03 20:51:53 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6066c6c5] Running /usr/bin/env mkdir -p /home/live/tmp as live@23.106.33.179
+ DEBUG [6066c6c5] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [6066c6c5] Finished in 1.938 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh 100.0%
+  INFO [80164f28] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh as live@23.106.33.179
+ DEBUG [80164f28] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh
+  INFO [80164f28] Finished in 0.492 seconds with exit status 0 (successful).
+  INFO [cc707818] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD as live@23.106.33.179
+ DEBUG [cc707818] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-appsgenii.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/javascript/FreshaFrontend.git HEAD )
+ DEBUG [cc707818] 	remote: 
+remote: ========================================================================
+remote: 
+remote: The project you were looking for could not be found or you don't have permission to view it.
+remote: 
+remote: ========================================================================
+remote: 
+ DEBUG [cc707818] 	fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-13 13:12:53 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [55216557] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [55216557] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-13 14:06:52 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [6971af94] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [6971af94] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-06-22 18:12:39 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [b2e818fc] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [b2e818fc] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [b2e818fc] Finished in 2.665 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 100.0%
+  INFO [9c8ef029] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh as live@173.249.30.193
+ DEBUG [9c8ef029] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh
+  INFO [9c8ef029] Finished in 0.817 seconds with exit status 0 (successful).
+  INFO [8ac452fa] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD as live@173.249.30.193
+ DEBUG [8ac452fa] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD )
+ DEBUG [8ac452fa] 	618b3abacb47aac9758722686bd44b3d06dc1e8c	HEAD
+  INFO [8ac452fa] Finished in 2.924 seconds with exit status 0 (successful).
+  INFO [c328bc9f] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [c328bc9f] Command: /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases
+  INFO [c328bc9f] Finished in 0.616 seconds with exit status 0 (successful).
+ DEBUG [2cbdd767] Running [ -f /home/live/FreshaFrontEnd/current/REVISION ] as live@173.249.30.193
+ DEBUG [2cbdd767] Command: [ -f /home/live/FreshaFrontEnd/current/REVISION ]
+ DEBUG [2cbdd767] Finished in 0.712 seconds with exit status 0 (successful).
+ DEBUG [69fc8dc3] Running /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null as live@173.249.30.193
+ DEBUG [69fc8dc3] Command: /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null
+ DEBUG [69fc8dc3] 	dda4e09b1136525bc794246bbef9c4f49067e5cc
+ DEBUG [69fc8dc3] Finished in 0.715 seconds with exit status 0 (successful).
+ DEBUG [2bb500ef] Running [ -f /home/live/FreshaFrontEnd/repo/HEAD ] as live@173.249.30.193
+ DEBUG [2bb500ef] Command: [ -f /home/live/FreshaFrontEnd/repo/HEAD ]
+ DEBUG [2bb500ef] Finished in 0.815 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/live/FreshaFrontEnd/repo
+ DEBUG [57d29b4e] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [57d29b4e] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [57d29b4e] Finished in 0.683 seconds with exit status 0 (successful).
+  INFO [2d4a4711] Running /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git as live@173.249.30.193
+ DEBUG [2d4a4711] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git )
+  INFO [2d4a4711] Finished in 0.541 seconds with exit status 0 (successful).
+  INFO [b627531b] Running /usr/bin/env git remote update --prune as live@173.249.30.193
+ DEBUG [b627531b] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [b627531b] 	Fetching origin
+ DEBUG [b627531b] 	From ssh://gitrepos.com:222/react/FreshaFrontend
+   320e37e..c2bde78  haseeb          -> haseeb
+ DEBUG [b627531b] 	   c5e2e9e..55e4e0c  jahanzaib       -> jahanzaib
+ DEBUG [b627531b] 	   dda4e09..79c40ed  master          -> master
+ DEBUG [b627531b] 	   6af33f4..79c40ed  test_deployment -> test_deployment
+  INFO [b627531b] Finished in 3.177 seconds with exit status 0 (successful).
+ DEBUG [c44ea085] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [c44ea085] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [c44ea085] Finished in 0.715 seconds with exit status 0 (successful).
+  INFO [e03fbdf3] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220622131304 as live@173.249.30.193
+ DEBUG [e03fbdf3] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220622131304 )
+  INFO [e03fbdf3] Finished in 0.817 seconds with exit status 0 (successful).
+  INFO [7fafe79b] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220622131304 as live@173.249.30.193
+ DEBUG [7fafe79b] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220622131304 )
+  INFO [7fafe79b] Finished in 1.330 seconds with exit status 0 (successful).
+ DEBUG [56395b7c] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [56395b7c] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [56395b7c] Finished in 0.716 seconds with exit status 0 (successful).
+ DEBUG [c194410e] Running /usr/bin/env git rev-list --max-count=1 master as live@173.249.30.193
+ DEBUG [c194410e] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [c194410e] 	79c40ed26949c54eabf2f871f7f7908968ffb20d
+ DEBUG [c194410e] Finished in 0.879 seconds with exit status 0 (successful).
+ DEBUG [c73efc75] Running if test ! -d /home/live/FreshaFrontEnd/releases/20220622131304; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220622131304'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [c73efc75] Command: if test ! -d /home/live/FreshaFrontEnd/releases/20220622131304; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220622131304'" 1>&2; false; fi
+ DEBUG [c73efc75] Finished in 0.653 seconds with exit status 0 (successful).
+  INFO [c618a425] Running /usr/bin/env echo "79c40ed26949c54eabf2f871f7f7908968ffb20d" > REVISION as live@173.249.30.193
+ DEBUG [c618a425] Command: cd /home/live/FreshaFrontEnd/releases/20220622131304 && /usr/bin/env echo "79c40ed26949c54eabf2f871f7f7908968ffb20d" > REVISION
+  INFO [c618a425] Finished in 0.716 seconds with exit status 0 (successful).
+  INFO [749b9a70] Running /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220622131304 /home/live/FreshaFrontEnd/releases/current as live@173.249.30.193
+ DEBUG [749b9a70] Command: /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220622131304 /home/live/FreshaFrontEnd/releases/current
+  INFO [749b9a70] Finished in 0.818 seconds with exit status 0 (successful).
+  INFO [48804981] Running /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd as live@173.249.30.193
+ DEBUG [48804981] Command: /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd
+  INFO [48804981] Finished in 0.612 seconds with exit status 0 (successful).
+ DEBUG [7fdd6a4f] Running /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [7fdd6a4f] Command: /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases
+ DEBUG [7fdd6a4f] 	20220603155343	20220606080827	20220622131304
+ DEBUG [7fdd6a4f] Finished in 0.830 seconds with exit status 0 (successful).
+ DEBUG [728f8be7] Running if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [728f8be7] Command: if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi
+ DEBUG [728f8be7] Finished in 0.909 seconds with exit status 0 (successful).
+  INFO [bc41a5c4] Running /usr/bin/env echo "Branch master (at 79c40ed26949c54eabf2f871f7f7908968ffb20d) deployed as release 20220622131304 by danish" >> /home/live/FreshaFrontEnd/revisions.log as live@173.249.30.193
+ DEBUG [bc41a5c4] Command: cd /home/live/FreshaFrontEnd/releases && /usr/bin/env echo "Branch master (at 79c40ed26949c54eabf2f871f7f7908968ffb20d) deployed as release 20220622131304 by danish" >> /home/live/FreshaFrontEnd/revisions.log
+  INFO [bc41a5c4] Finished in 0.571 seconds with exit status 0 (successful).
+ DEBUG [7f6ccabf] Running if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [7f6ccabf] Command: if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi
+ DEBUG [7f6ccabf] Finished in 0.755 seconds with exit status 0 (successful).
+  INFO [8125e74f] Running /usr/bin/env npm install as live@173.249.30.193
+ DEBUG [8125e74f] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm install
+ DEBUG [8125e74f] 	
+> node-sass@4.14.1 install /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/node-sass
+> node scripts/install.js
+
+ DEBUG [8125e74f] 	Cached binary found at /home/live/.npm/node-sass/4.14.1/linux-x64-64_binding.node
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/core/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/dashboard/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/drag-drop/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/dropbox/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/facebook/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/file-input/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/google-drive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/informer/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/instagram/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/onedrive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/progress-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/provider-views/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/screen-capture/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/status-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/url/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/@uppy/webcam/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [8125e74f] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [8125e74f] 	
+> core-js@2.6.12 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [8125e74f] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [8125e74f] 	
+> core-js-pure@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [8125e74f] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js:[0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://patreon.com/zloirock [0m
+[96m>[94m bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [8125e74f] 	
+> ejs@2.7.4 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/ejs
+> node ./postinstall.js
+
+ DEBUG [8125e74f] 	Thank you for installing [35mEJS[0m: built with the [32mJake[0m JavaScript build tool ([32mhttps://jakejs.com/[0m)
+
+ DEBUG [8125e74f] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/fbjs/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [8125e74f] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/react-app-polyfill/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [8125e74f] 	
+> styled-components@4.4.1 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/react-simple-multi-select/node_modules/styled-components
+> node ./scripts/postinstall.js || exit 0
+
+ DEBUG [8125e74f] 	Use styled-components at work? Consider supporting our development efforts at https://opencollective.com/styled-components
+ DEBUG [8125e74f] 	
+> es5-ext@0.10.61 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/es5-ext
+>  node -e "try{require('./_postinstall')}catch(e){}" || exit 0
+
+ DEBUG [8125e74f] 	
+> node-sass@4.14.1 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/node-sass
+> node scripts/build.js
+
+ DEBUG [8125e74f] 	Binary found at /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/node-sass/vendor/linux-x64-64/binding.node
+ DEBUG [8125e74f] 	Testing binary
+ DEBUG [8125e74f] 	Binary is fine
+ DEBUG [8125e74f] 	
+> swiper@6.0.4 postinstall /home/live/FreshaFrontEnd/releases/20220622131304/node_modules/swiper
+> echo "[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+"
+
+ DEBUG [8125e74f] 	[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+
+ DEBUG [8125e74f] 	npm 
+ DEBUG [8125e74f] 	WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/webpack-dev-server/node_modules/fsevents):
+ DEBUG [8125e74f] 	npm WARN 
+ DEBUG [8125e74f] 	notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [8125e74f] 	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/watchpack-chokidar2/node_modules/fsevents):
+ DEBUG [8125e74f] 	npm WARN 
+ DEBUG [8125e74f] 	notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [8125e74f] 	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules/fsevents):
+ DEBUG [8125e74f] 	npm WARN 
+ DEBUG [8125e74f] 	notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [8125e74f] 	
+ DEBUG [8125e74f] 	added 2556 packages from 1389 contributors and audited 2566 packages in 69.33s
+ DEBUG [8125e74f] 	
+180 packages are looking for funding
+  run `npm fund` for details
+
+ DEBUG [8125e74f] 	found 48 vulnerabilities (2 low, 12 moderate, 30 high, 4 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+  INFO [8125e74f] Finished in 75.164 seconds with exit status 0 (successful).
+  INFO [966de4be] Running /usr/bin/env npm run build as live@173.249.30.193
+ DEBUG [966de4be] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm run build
+ DEBUG [966de4be] 	
+> vuexy-react-admin-dashboard@6.4.0 build /home/live/FreshaFrontEnd/releases/20220622131304
+> react-app-rewired build
+
+ DEBUG [966de4be] 	Creating an optimized production build...
+ DEBUG [966de4be] 	Compiled successfully.
+
+File sizes after gzip:
+
+ DEBUG [966de4be] 	  341.28 KB  build/static/js/10.f22b8d5e.chunk.js
+ DEBUG [966de4be] 	  277.73 KB  build/static/js/23.a89af6cf.chunk.js
+ DEBUG [966de4be] 	  265.16 KB  build/static/js/25.82b7e8f5.chunk.js
+ DEBUG [966de4be] 	  124.1 KB   build/static/js/6.4352e055.chunk.js
+ DEBUG [966de4be] 	  119.77 KB  build/static/js/5.33f900fb.chunk.js
+ DEBUG [966de4be] 	  117.93 KB  build/static/js/24.038219b2.chunk.js
+ DEBUG [966de4be] 	  114.93 KB  build/static/js/32.7752e61b.chunk.js
+ DEBUG [966de4be] 	  110.22 KB  build/static/js/27.56d0dd67.chunk.js
+ DEBUG [966de4be] 	  104.95 KB  build/static/js/28.78a8e3a7.chunk.js
+ DEBUG [966de4be] 	  89.66 KB   build/static/css/main.58bf1667.chunk.css
+ DEBUG [966de4be] 	  74.32 KB   build/static/js/main.ff5a9ac4.chunk.js
+ DEBUG [966de4be] 	  61.23 KB   build/static/js/12.9883a3a7.chunk.js
+ DEBUG [966de4be] 	  54.31 KB   build/static/js/15.e603c647.chunk.js
+ DEBUG [966de4be] 	  43.88 KB   build/static/js/31.97f0ea8a.chunk.js
+ DEBUG [966de4be] 	  36.48 KB   build/static/js/26.9574e3b1.chunk.js
+ DEBUG [966de4be] 	  31.33 KB   build/static/js/13.799331fd.chunk.js
+ DEBUG [966de4be] 	  30.44 KB   build/static/js/38.20b45656.chunk.js
+ DEBUG [966de4be] 	  28.61 KB   build/static/js/42.44b6bc6b.chunk.js
+ DEBUG [966de4be] 	  27.5 KB    build/static/js/34.f4da344d.chunk.js
+ DEBUG [966de4be] 	  27.46 KB   build/static/js/40.ea5db6e6.chunk.js
+ DEBUG [966de4be] 	  27.44 KB   build/static/js/41.82df3840.chunk.js
+ DEBUG [966de4be] 	  22.9 KB    build/static/js/2.99915774.chunk.js
+ DEBUG [966de4be] 	  20.95 KB   build/static/js/114.f310801f.chunk.js
+ DEBUG [966de4be] 	  20.5 KB    build/static/js/36.1565d18b.chunk.js
+ DEBUG [966de4be] 	  20.01 KB   build/static/js/35.b37d934c.chunk.js
+ DEBUG [966de4be] 	  19.52 KB   build/static/js/30.dfb03195.chunk.js
+ DEBUG [966de4be] 	  19.05 KB   build/static/js/63.e0b263d0.chunk.js
+ DEBUG [966de4be] 	  17.81 KB   build/static/js/104.1e158b14.chunk.js
+ DEBUG [966de4be] 	  17.7 KB    build/static/js/113.26446b8f.chunk.js
+ DEBUG [966de4be] 	  15.29 KB   build/static/js/9.d17f75e2.chunk.js
+ DEBUG [966de4be] 	  15.29 KB   build/static/js/7.a4410be3.chunk.js
+ DEBUG [966de4be] 	  15.06 KB   build/static/js/3.ff17922b.chunk.js
+ DEBUG [966de4be] 	  14.44 KB   build/static/js/29.933562b9.chunk.js
+ DEBUG [966de4be] 	  13.68 KB   build/static/css/12.63db7cdd.chunk.css
+ DEBUG [966de4be] 	  13.31 KB   build/static/js/37.a48c0590.chunk.js
+ DEBUG [966de4be] 	  12.43 KB   build/static/js/0.0c8b62a6.chunk.js
+ DEBUG [966de4be] 	  12.24 KB   build/static/js/100.e3acd425.chunk.js
+ DEBUG [966de4be] 	  11.48 KB   build/static/js/74.8d726f7a.chunk.js
+ DEBUG [966de4be] 	  10.03 KB   build/static/js/1.d9e6045b.chunk.js
+ DEBUG [966de4be] 	  9.74 KB    build/static/js/47.fa86a4a5.chunk.js
+ DEBUG [966de4be] 	  9.74 KB    build/static/css/32.91321154.chunk.css
+ DEBUG [966de4be] 	  9.38 KB    build/static/js/43.b0a8a6f7.chunk.js
+ DEBUG [966de4be] 	  9.3 KB     build/static/js/132.29b61064.chunk.js
+ DEBUG [966de4be] 	  9.12 KB    build/static/css/25.ea57ccba.chunk.css
+ DEBUG [966de4be] 	  8.77 KB    build/static/js/111.e0832232.chunk.js
+ DEBUG [966de4be] 	  8.64 KB    build/static/js/20.96385bcd.chunk.js
+ DEBUG [966de4be] 	  8.32 KB    build/static/js/64.6dd7ea10.chunk.js
+ DEBUG [966de4be] 	  8.05 KB    build/static/js/44.5ecc800d.chunk.js
+ DEBUG [966de4be] 	  7.59 KB    build/static/js/39.65fae1b7.chunk.js
+ DEBUG [966de4be] 	  7.35 KB    build/static/js/62.9852c582.chunk.js
+ DEBUG [966de4be] 	  7.06 KB    build/static/css/24.bde8ec64.chunk.css
+ DEBUG [966de4be] 	  6.92 KB    build/static/js/45.45fb727d.chunk.js
+ DEBUG [966de4be] 	  6.68 KB    build/static/js/48.6526d4b4.chunk.js
+ DEBUG [966de4be] 	  6.49 KB    build/static/js/56.5d09ed7f.chunk.js
+ DEBUG [966de4be] 	  6.23 KB    build/static/js/46.076a4238.chunk.js
+ DEBUG [966de4be] 	  6.22 KB    build/static/js/103.616f781f.chunk.js
+ DEBUG [966de4be] 	  6.19 KB    build/static/js/61.bba8cf15.chunk.js
+ DEBUG [966de4be] 	  6.13 KB    build/static/js/119.c3b8640d.chunk.js
+ DEBUG [966de4be] 	  6.04 KB    build/static/js/69.df824574.chunk.js
+ DEBUG [966de4be] 	  5.73 KB    build/static/js/102.795d7729.chunk.js
+ DEBUG [966de4be] 	  5.72 KB    build/static/js/137.b81bdc1a.chunk.js
+ DEBUG [966de4be] 	  5.7 KB     build/static/js/4.275d07e7.chunk.js
+ DEBUG [966de4be] 	  5.68 KB    build/static/js/121.8dbf4f48.chunk.js
+ DEBUG [966de4be] 	  5.63 KB    build/static/js/108.bd6f89bc.chunk.js
+ DEBUG [966de4be] 	  5.62 KB    build/static/js/94.d71f826d.chunk.js
+ DEBUG [966de4be] 	  5.58 KB    build/static/js/60.734e1cb5.chunk.js
+ DEBUG [966de4be] 	  5.45 KB    build/static/js/8.42dd91e0.chunk.js
+ DEBUG [966de4be] 	  5.34 KB    build/static/css/36.265b899d.chunk.css
+ DEBUG [966de4be] 	  5.32 KB    build/static/js/107.a0d09468.chunk.js
+ DEBUG [966de4be] 	  5.23 KB    build/static/css/34.11cb4341.chunk.css
+ DEBUG [966de4be] 	  5.18 KB    build/static/js/50.4e967089.chunk.js
+ DEBUG [966de4be] 	  5.1 KB     build/static/js/33.fc4f6394.chunk.js
+ DEBUG [966de4be] 	  5.01 KB    build/static/js/57.4c15188d.chunk.js
+ DEBUG [966de4be] 	  4.97 KB    build/static/js/55.bd017c3c.chunk.js
+ DEBUG [966de4be] 	  4.89 KB    build/static/css/42.cbf27c3f.chunk.css
+ DEBUG [966de4be] 	  4.89 KB    build/static/css/41.cbf27c3f.chunk.css
+ DEBUG [966de4be] 	  4.89 KB    build/static/css/40.cbf27c3f.chunk.css
+ DEBUG [966de4be] 	  4.83 KB    build/static/js/109.1500778d.chunk.js
+ DEBUG [966de4be] 	  4.79 KB    build/static/js/58.1b13ba1c.chunk.js
+ DEBUG [966de4be] 	  4.78 KB    build/static/js/79.6ae9e76e.chunk.js
+ DEBUG [966de4be] 	  4.74 KB    build/static/js/54.e954f41b.chunk.js
+ DEBUG [966de4be] 	  4.73 KB    build/static/js/68.68cd332e.chunk.js
+ DEBUG [966de4be] 	  4.56 KB    build/static/js/89.b918eb46.chunk.js
+ DEBUG [966de4be] 	  4.47 KB    build/static/js/51.44126c86.chunk.js
+ DEBUG [966de4be] 	  4.47 KB    build/static/js/49.f5a9b933.chunk.js
+ DEBUG [966de4be] 	  4.47 KB    build/static/js/73.020946e1.chunk.js
+ DEBUG [966de4be] 	  4.4 KB     build/static/css/51.b7554c31.chunk.css
+ DEBUG [966de4be] 	  4.35 KB    build/static/css/38.bcf4d3e8.chunk.css
+ DEBUG [966de4be] 	  4.26 KB    build/static/css/63.b5f1d89a.chunk.css
+ DEBUG [966de4be] 	  4.21 KB    build/static/js/53.d64adbd6.chunk.js
+ DEBUG [966de4be] 	  4.21 KB    build/static/js/112.2a242058.chunk.js
+ DEBUG [966de4be] 	  4.2 KB     build/static/js/66.8dbccce5.chunk.js
+ DEBUG [966de4be] 	  4.17 KB    build/static/js/65.22f338fe.chunk.js
+ DEBUG [966de4be] 	  4.17 KB    build/static/js/83.72872aff.chunk.js
+ DEBUG [966de4be] 	  4.12 KB    build/static/js/59.ceb17c3a.chunk.js
+ DEBUG [966de4be] 	  4.07 KB    build/static/js/124.5ccccc3d.chunk.js
+ DEBUG [966de4be] 	  4.01 KB    build/static/js/120.05f2545c.chunk.js
+ DEBUG [966de4be] 	  3.97 KB    build/static/js/67.9542f836.chunk.js
+ DEBUG [966de4be] 	  3.96 KB    build/static/js/76.270f8db7.chunk.js
+ DEBUG [966de4be] 	  3.92 KB    build/static/js/75.033db0fd.chunk.js
+ DEBUG [966de4be] 	  3.92 KB    build/static/js/106.0b973b91.chunk.js
+ DEBUG [966de4be] 	  3.92 KB    build/static/js/78.02e94766.chunk.js
+ DEBUG [966de4be] 	  3.88 KB    build/static/js/77.ba3ceed5.chunk.js
+ DEBUG [966de4be] 	  3.87 KB    build/static/js/81.68c8d9db.chunk.js
+ DEBUG [966de4be] 	  3.86 KB    build/static/js/95.f281e021.chunk.js
+ DEBUG [966de4be] 	  3.75 KB    build/static/js/97.91d0aea5.chunk.js
+ DEBUG [966de4be] 	  3.63 KB    build/static/css/27.324b8cd9.chunk.css
+ DEBUG [966de4be] 	  3.58 KB    build/static/js/143.49c7c20d.chunk.js
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/105.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/125.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/14.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/101.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/16.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.56 KB    build/static/css/17.a11f9b80.chunk.css
+ DEBUG [966de4be] 	  3.5 KB     build/static/js/runtime-main.b52dfa02.js
+ DEBUG [966de4be] 	  3.46 KB    build/static/js/70.266f666d.chunk.js
+ DEBUG [966de4be] 	  3.45 KB    build/static/js/72.a0ab1e07.chunk.js
+ DEBUG [966de4be] 	  3.42 KB    build/static/js/52.3e2b6fef.chunk.js
+ DEBUG [966de4be] 	  3.41 KB    build/static/js/144.6bdca47b.chunk.js
+ DEBUG [966de4be] 	  3.4 KB     build/static/js/90.e016bfcc.chunk.js
+ DEBUG [966de4be] 	  3.34 KB    build/static/js/71.8e532162.chunk.js
+ DEBUG [966de4be] 	  3.25 KB    build/static/js/93.44ad5c6e.chunk.js
+ DEBUG [966de4be] 	  3.25 KB    build/static/js/87.3d9c111e.chunk.js
+ DEBUG [966de4be] 	  3.24 KB    build/static/js/122.a6318d54.chunk.js
+ DEBUG [966de4be] 	  3.2 KB     build/static/js/80.700c7c7b.chunk.js
+ DEBUG [966de4be] 	  3.18 KB    build/static/js/86.32932502.chunk.js
+ DEBUG [966de4be] 	  3.14 KB    build/static/css/6.920a7453.chunk.css
+ DEBUG [966de4be] 	  3.13 KB    build/static/css/74.2c73bc17.chunk.css
+ DEBUG [966de4be] 	  3.09 KB    build/static/js/148.2bd53010.chunk.js
+ DEBUG [966de4be] 	  3.06 KB    build/static/css/23.cfa759b8.chunk.css
+ DEBUG [966de4be] 	  2.97 KB    build/static/js/91.104c3a39.chunk.js
+ DEBUG [966de4be] 	  2.83 KB    build/static/js/99.be0bf3d3.chunk.js
+ DEBUG [966de4be] 	  2.82 KB    build/static/js/140.85971f93.chunk.js
+ DEBUG [966de4be] 	  2.81 KB    build/static/js/88.ec7157d2.chunk.js
+ DEBUG [966de4be] 	  2.78 KB    build/static/js/82.9a3d27e2.chunk.js
+ DEBUG [966de4be] 	  2.75 KB    build/static/js/84.51492ea6.chunk.js
+ DEBUG [966de4be] 	  2.73 KB    build/static/js/131.c8cd7869.chunk.js
+ DEBUG [966de4be] 	  2.73 KB    build/static/js/135.77b3601b.chunk.js
+ DEBUG [966de4be] 	  2.69 KB    build/static/js/11.a1b8e992.chunk.js
+ DEBUG [966de4be] 	  2.63 KB    build/static/js/116.9eabeeee.chunk.js
+ DEBUG [966de4be] 	  2.53 KB    build/static/js/96.3fcb9df2.chunk.js
+ DEBUG [966de4be] 	  2.47 KB    build/static/js/14.a472aede.chunk.js
+ DEBUG [966de4be] 	  2.44 KB    build/static/js/129.06aebfe6.chunk.js
+ DEBUG [966de4be] 	  2.43 KB    build/static/js/142.926c562f.chunk.js
+ DEBUG [966de4be] 	  2.41 KB    build/static/js/85.737c0d43.chunk.js
+ DEBUG [966de4be] 	  2.41 KB    build/static/css/37.f613897b.chunk.css
+ DEBUG [966de4be] 	  2.41 KB    build/static/js/92.69e91867.chunk.js
+ DEBUG [966de4be] 	  2.4 KB     build/static/js/98.ae5ebffa.chunk.js
+ DEBUG [966de4be] 	  2.19 KB    build/static/js/138.e923d2c2.chunk.js
+ DEBUG [966de4be] 	  2.13 KB    build/static/js/130.80dd5088.chunk.js
+ DEBUG [966de4be] 	  2.02 KB    build/static/js/146.c7d334a1.chunk.js
+ DEBUG [966de4be] 	  2.01 KB    build/static/js/110.6f8d4444.chunk.js
+ DEBUG [966de4be] 	  1.96 KB    build/static/css/102.653cbb36.chunk.css
+ DEBUG [966de4be] 	  1.86 KB    build/static/js/123.11dbb6a7.chunk.js
+ DEBUG [966de4be] 	  1.83 KB    build/static/js/115.58b2b268.chunk.js
+ DEBUG [966de4be] 	  1.79 KB    build/static/css/39.cf65a3dc.chunk.css
+ DEBUG [966de4be] 	  1.79 KB    build/static/css/53.f6ed5e68.chunk.css
+ DEBUG [966de4be] 	  1.72 KB    build/static/css/120.941581e0.chunk.css
+ DEBUG [966de4be] 	  1.68 KB    build/static/js/117.ac050644.chunk.js
+ DEBUG [966de4be] 	  1.6 KB     build/static/js/141.5b5dec52.chunk.js
+ DEBUG [966de4be] 	  1.58 KB    build/static/js/145.c78e0447.chunk.js
+ DEBUG [966de4be] 	  1.58 KB    build/static/js/105.69fff141.chunk.js
+ DEBUG [966de4be] 	  1.5 KB     build/static/css/100.7a26e190.chunk.css
+ DEBUG [966de4be] 	  1.47 KB    build/static/css/132.2a5455c3.chunk.css
+ DEBUG [966de4be] 	  1.46 KB    build/static/css/28.06755467.chunk.css
+ DEBUG [966de4be] 	  1.45 KB    build/static/js/101.a2f74e1c.chunk.js
+ DEBUG [966de4be] 	  1.43 KB    build/static/js/118.50abc9b8.chunk.js
+ DEBUG [966de4be] 	  1.4 KB     build/static/js/16.ac825164.chunk.js
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/96.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/47.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/76.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/64.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/44.353ee4f5.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/65.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/66.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/8.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/75.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/78.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.38 KB    build/static/css/77.85f57130.chunk.css
+ DEBUG [966de4be] 	  1.3 KB     build/static/js/127.0eaed604.chunk.js
+ DEBUG [966de4be] 	  1.28 KB    build/static/js/147.1ef3b8ff.chunk.js
+ DEBUG [966de4be] 	  1.28 KB    build/static/js/128.bbebf6fb.chunk.js
+ DEBUG [966de4be] 	  1.28 KB    build/static/js/139.6b0daf80.chunk.js
+ DEBUG [966de4be] 	  1.27 KB    build/static/css/99.45ec420c.chunk.css
+ DEBUG [966de4be] 	  1.2 KB     build/static/css/130.e019b552.chunk.css
+ DEBUG [966de4be] 	  1.18 KB    build/static/js/126.8fce69ae.chunk.js
+ DEBUG [966de4be] 	  1.15 KB    build/static/css/113.b0819b82.chunk.css
+ DEBUG [966de4be] 	  1.12 KB    build/static/css/126.974eb5e1.chunk.css
+ DEBUG [966de4be] 	  1.12 KB    build/static/css/119.974eb5e1.chunk.css
+ DEBUG [966de4be] 	  1.12 KB    build/static/css/127.974eb5e1.chunk.css
+ DEBUG [966de4be] 	  1.09 KB    build/static/css/112.ffc63b12.chunk.css
+ DEBUG [966de4be] 	  1.08 KB    build/static/js/17.cf07d81f.chunk.js
+ DEBUG [966de4be] 	  1.02 KB    build/static/css/29.a4d39fe8.chunk.css
+ DEBUG [966de4be] 	  1.02 KB    build/static/css/9.582a21cb.chunk.css
+ DEBUG [966de4be] 	  987 B      build/static/js/133.1a92f1bc.chunk.js
+ DEBUG [966de4be] 	  821 B      build/static/css/62.7da0b64e.chunk.css
+ DEBUG [966de4be] 	  804 B      build/static/css/35.62da8d8b.chunk.css
+ DEBUG [966de4be] 	  744 B      build/static/js/134.f4ac5360.chunk.js
+ DEBUG [966de4be] 	  742 B      build/static/js/125.fcd1fa43.chunk.js
+ DEBUG [966de4be] 	  624 B      build/static/css/131.d9943e11.chunk.css
+ DEBUG [966de4be] 	  539 B      build/static/js/150.92381976.chunk.js
+ DEBUG [966de4be] 	  533 B      build/static/css/133.4d8afffb.chunk.css
+ DEBUG [966de4be] 	  503 B      build/static/js/151.7809d159.chunk.js
+ DEBUG [966de4be] 	  501 B      build/static/js/19.90263ca2.chunk.js
+ DEBUG [966de4be] 	  500 B      build/static/js/149.efbe81d6.chunk.js
+ DEBUG [966de4be] 	  496 B      build/static/js/18.df367926.chunk.js
+ DEBUG [966de4be] 	  488 B      build/static/css/134.36210bba.chunk.css
+ DEBUG [966de4be] 	  431 B      build/static/css/129.7cbd1968.chunk.css
+ DEBUG [966de4be] 	  388 B      build/static/css/121.c5a89f4a.chunk.css
+ DEBUG [966de4be] 	  331 B      build/static/css/128.89f1416a.chunk.css
+ DEBUG [966de4be] 	  291 B      build/static/js/136.c1fc4298.chunk.js
+ DEBUG [966de4be] 	  278 B      build/static/css/52.4bcde76c.chunk.css
+ DEBUG [966de4be] 	  278 B      build/static/css/85.4bcde76c.chunk.css
+ DEBUG [966de4be] 	  276 B      build/static/css/136.46e1f9d4.chunk.css
+ DEBUG [966de4be] 	  276 B      build/static/css/19.46e1f9d4.chunk.css
+ DEBUG [966de4be] 	  276 B      build/static/css/18.46e1f9d4.chunk.css
+ DEBUG [966de4be] 	  274 B      build/static/css/73.2e6c3880.chunk.css
+ DEBUG [966de4be] 	  230 B      build/static/css/110.f6428df3.chunk.css
+ DEBUG [966de4be] 	  229 B      build/static/css/117.f6428df3.chunk.css
+ DEBUG [966de4be] 	  198 B      build/static/css/72.2afb4b3b.chunk.css
+ DEBUG [966de4be] 	  193 B      build/static/css/79.292b5a4d.chunk.css
+ DEBUG [966de4be] 	
+ DEBUG [966de4be] 	The project was built assuming it is hosted at /.
+ DEBUG [966de4be] 	You can control this with the homepage field in your package.json.
+ DEBUG [966de4be] 	
+ DEBUG [966de4be] 	The build folder is ready to be deployed.
+ DEBUG [966de4be] 	You may serve it with a static server:
+ DEBUG [966de4be] 	
+ DEBUG [966de4be] 	  yarn global add serve
+ DEBUG [966de4be] 	  serve -s build
+ DEBUG [966de4be] 	
+ DEBUG [966de4be] 	Find out more about deployment here:
+ DEBUG [966de4be] 	
+ DEBUG [966de4be] 	  https://cra.link/deployment
+ DEBUG [966de4be] 	
+  INFO [966de4be] Finished in 400.391 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-07-04 19:17:09 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [cc444def] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [cc444def] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [cc444def] Finished in 2.922 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 100.0%
+  INFO [e3e80eb2] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh as live@173.249.30.193
+ DEBUG [e3e80eb2] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh
+  INFO [e3e80eb2] Finished in 0.921 seconds with exit status 0 (successful).
+  INFO [85e0ceae] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD as live@173.249.30.193
+ DEBUG [85e0ceae] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD )
+ DEBUG [85e0ceae] 	618b3abacb47aac9758722686bd44b3d06dc1e8c	HEAD
+  INFO [85e0ceae] Finished in 2.462 seconds with exit status 0 (successful).
+  INFO [7066df9c] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [7066df9c] Command: /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases
+  INFO [7066df9c] Finished in 0.517 seconds with exit status 0 (successful).
+ DEBUG [d7123e33] Running [ -f /home/live/FreshaFrontEnd/current/REVISION ] as live@173.249.30.193
+ DEBUG [d7123e33] Command: [ -f /home/live/FreshaFrontEnd/current/REVISION ]
+ DEBUG [d7123e33] Finished in 0.721 seconds with exit status 0 (successful).
+ DEBUG [e8aa5acd] Running /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null as live@173.249.30.193
+ DEBUG [e8aa5acd] Command: /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null
+ DEBUG [e8aa5acd] 	00ed6dd6410df61df14db5e11cbb183e5c6bb147
+ DEBUG [e8aa5acd] Finished in 0.667 seconds with exit status 0 (successful).
+ DEBUG [01fa7285] Running [ -f /home/live/FreshaFrontEnd/repo/HEAD ] as live@173.249.30.193
+ DEBUG [01fa7285] Command: [ -f /home/live/FreshaFrontEnd/repo/HEAD ]
+ DEBUG [01fa7285] Finished in 0.651 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/live/FreshaFrontEnd/repo
+ DEBUG [2f2bf4e5] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [2f2bf4e5] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [2f2bf4e5] Finished in 0.830 seconds with exit status 0 (successful).
+  INFO [2349d7cf] Running /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git as live@173.249.30.193
+ DEBUG [2349d7cf] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git )
+  INFO [2349d7cf] Finished in 0.706 seconds with exit status 0 (successful).
+  INFO [95c50eff] Running /usr/bin/env git remote update --prune as live@173.249.30.193
+ DEBUG [95c50eff] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [95c50eff] 	Fetching origin
+ DEBUG [95c50eff] 	From ssh://gitrepos.com:222/react/FreshaFrontend
+   00ed6dd..4b459d5  master     -> master
+  INFO [95c50eff] Finished in 3.087 seconds with exit status 0 (successful).
+ DEBUG [f01c4fe5] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [f01c4fe5] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [f01c4fe5] Finished in 0.497 seconds with exit status 0 (successful).
+  INFO [7b269b5a] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220704141720 as live@173.249.30.193
+ DEBUG [7b269b5a] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220704141720 )
+  INFO [7b269b5a] Finished in 0.923 seconds with exit status 0 (successful).
+  INFO [bead2200] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220704141720 as live@173.249.30.193
+ DEBUG [bead2200] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220704141720 )
+  INFO [bead2200] Finished in 0.918 seconds with exit status 0 (successful).
+ DEBUG [1dee055a] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [1dee055a] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [1dee055a] Finished in 0.544 seconds with exit status 0 (successful).
+ DEBUG [24a642e2] Running /usr/bin/env git rev-list --max-count=1 master as live@173.249.30.193
+ DEBUG [24a642e2] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [24a642e2] 	4b459d504a6bc3a03cdb7eb53f4143e31da0e95e
+ DEBUG [24a642e2] Finished in 0.575 seconds with exit status 0 (successful).
+ DEBUG [4fe6484a] Running if test ! -d /home/live/FreshaFrontEnd/releases/20220704141720; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220704141720'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [4fe6484a] Command: if test ! -d /home/live/FreshaFrontEnd/releases/20220704141720; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220704141720'" 1>&2; false; fi
+ DEBUG [4fe6484a] Finished in 0.818 seconds with exit status 0 (successful).
+  INFO [5922aa8d] Running /usr/bin/env echo "4b459d504a6bc3a03cdb7eb53f4143e31da0e95e" > REVISION as live@173.249.30.193
+ DEBUG [5922aa8d] Command: cd /home/live/FreshaFrontEnd/releases/20220704141720 && /usr/bin/env echo "4b459d504a6bc3a03cdb7eb53f4143e31da0e95e" > REVISION
+  INFO [5922aa8d] Finished in 0.820 seconds with exit status 0 (successful).
+  INFO [3c73b16a] Running /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220704141720 /home/live/FreshaFrontEnd/releases/current as live@173.249.30.193
+ DEBUG [3c73b16a] Command: /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220704141720 /home/live/FreshaFrontEnd/releases/current
+  INFO [3c73b16a] Finished in 1.229 seconds with exit status 0 (successful).
+  INFO [c67de199] Running /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd as live@173.249.30.193
+ DEBUG [c67de199] Command: /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd
+  INFO [c67de199] Finished in 0.710 seconds with exit status 0 (successful).
+ DEBUG [4d1b638e] Running /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [4d1b638e] Command: /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases
+ DEBUG [4d1b638e] 	20220603155343	20220606080827	20220622131304	20220628155834	20220629122644
+20220704134631	20220704141720
+ DEBUG [4d1b638e] Finished in 1.128 seconds with exit status 0 (successful).
+ DEBUG [f71fa372] Running if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [f71fa372] Command: if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi
+ DEBUG [f71fa372] Finished in 0.614 seconds with exit status 0 (successful).
+  INFO [64b5f323] Running /usr/bin/env echo "Branch master (at 4b459d504a6bc3a03cdb7eb53f4143e31da0e95e) deployed as release 20220704141720 by danish" >> /home/live/FreshaFrontEnd/revisions.log as live@173.249.30.193
+ DEBUG [64b5f323] Command: cd /home/live/FreshaFrontEnd/releases && /usr/bin/env echo "Branch master (at 4b459d504a6bc3a03cdb7eb53f4143e31da0e95e) deployed as release 20220704141720 by danish" >> /home/live/FreshaFrontEnd/revisions.log
+  INFO [64b5f323] Finished in 0.618 seconds with exit status 0 (successful).
+ DEBUG [50f93eb3] Running if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [50f93eb3] Command: if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi
+ DEBUG [50f93eb3] Finished in 0.807 seconds with exit status 0 (successful).
+  INFO [f3c371d4] Running /usr/bin/env npm install as live@173.249.30.193
+ DEBUG [f3c371d4] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm install
+ DEBUG [f3c371d4] 	
+> node-sass@4.14.1 install /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/node-sass
+> node scripts/install.js
+
+ DEBUG [f3c371d4] 	Cached binary found at /home/live/.npm/node-sass/4.14.1/linux-x64-64_binding.node
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/core/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/dashboard/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/drag-drop/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/dropbox/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/facebook/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/file-input/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/google-drive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/informer/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/instagram/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/onedrive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/progress-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/provider-views/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/screen-capture/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/status-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/url/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/@uppy/webcam/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [f3c371d4] 	
+> core-js@2.6.12 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [f3c371d4] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [f3c371d4] 	
+> core-js-pure@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [f3c371d4] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js:[0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://patreon.com/zloirock [0m
+[96m>[94m bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [f3c371d4] 	
+> ejs@2.7.4 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/ejs
+> node ./postinstall.js
+
+ DEBUG [f3c371d4] 	Thank you for installing [35mEJS[0m: built with the [32mJake[0m JavaScript build tool ([32mhttps://jakejs.com/[0m)
+
+ DEBUG [f3c371d4] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/fbjs/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [f3c371d4] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/react-app-polyfill/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [f3c371d4] 	
+> styled-components@4.4.1 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/react-simple-multi-select/node_modules/styled-components
+> node ./scripts/postinstall.js || exit 0
+
+ DEBUG [f3c371d4] 	Use styled-components at work? Consider supporting our development efforts at https://opencollective.com/styled-components
+ DEBUG [f3c371d4] 	
+> es5-ext@0.10.61 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/es5-ext
+>  node -e "try{require('./_postinstall')}catch(e){}" || exit 0
+
+ DEBUG [f3c371d4] 	
+> node-sass@4.14.1 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/node-sass
+> node scripts/build.js
+
+ DEBUG [f3c371d4] 	Binary found at /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/node-sass/vendor/linux-x64-64/binding.node
+ DEBUG [f3c371d4] 	Testing binary
+ DEBUG [f3c371d4] 	Binary is fine
+ DEBUG [f3c371d4] 	
+> swiper@6.0.4 postinstall /home/live/FreshaFrontEnd/releases/20220704141720/node_modules/swiper
+> echo "[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+"
+
+ DEBUG [f3c371d4] 	[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+
+ DEBUG [f3c371d4] 	npm 
+ DEBUG [f3c371d4] 	WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/webpack-dev-server/node_modules/fsevents):
+ DEBUG [f3c371d4] 	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [f3c371d4] 	npm 
+ DEBUG [f3c371d4] 	WARN optional
+ DEBUG [f3c371d4] 	 SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/watchpack-chokidar2/node_modules/fsevents):
+npm WARN
+ DEBUG [f3c371d4] 	 notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [f3c371d4] 	npm 
+ DEBUG [f3c371d4] 	WARN 
+ DEBUG [f3c371d4] 	optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules/fsevents):
+ DEBUG [f3c371d4] 	npm
+ DEBUG [f3c371d4] 	 WARN
+ DEBUG [f3c371d4] 	 notsup
+ DEBUG [f3c371d4] 	 SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [f3c371d4] 	
+ DEBUG [f3c371d4] 	added 2556 packages from 1389 contributors and audited 2566 packages in 60.066s
+ DEBUG [f3c371d4] 	
+180 packages are looking for funding
+  run `npm fund` for details
+
+ DEBUG [f3c371d4] 	found 48 vulnerabilities (2 low, 12 moderate, 30 high, 4 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+  INFO [f3c371d4] Finished in 64.928 seconds with exit status 0 (successful).
+  INFO [49de40fc] Running /usr/bin/env npm run build as live@173.249.30.193
+ DEBUG [49de40fc] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm run build
+ DEBUG [49de40fc] 	
+> vuexy-react-admin-dashboard@6.4.0 build /home/live/FreshaFrontEnd/releases/20220704141720
+> react-app-rewired build
+
+ DEBUG [49de40fc] 	Creating an optimized production build...
+ DEBUG [49de40fc] 	Compiled successfully.
+
+File sizes after gzip:
+
+ DEBUG [49de40fc] 	  341.29 KB  build/static/js/10.b3001c1b.chunk.js
+ DEBUG [49de40fc] 	  279.85 KB  build/static/js/23.25448e38.chunk.js
+ DEBUG [49de40fc] 	  277.7 KB   build/static/js/22.beac3136.chunk.js
+ DEBUG [49de40fc] 	  124.79 KB  build/static/js/7.cc331a83.chunk.js
+ DEBUG [49de40fc] 	  119.77 KB  build/static/js/5.70d6baa3.chunk.js
+ DEBUG [49de40fc] 	  117.91 KB  build/static/js/24.22476001.chunk.js
+ DEBUG [49de40fc] 	  114.93 KB  build/static/js/34.f90e203f.chunk.js
+ DEBUG [49de40fc] 	  110.23 KB  build/static/js/26.f8a231d0.chunk.js
+ DEBUG [49de40fc] 	  104.94 KB  build/static/js/27.3925ba44.chunk.js
+ DEBUG [49de40fc] 	  89.66 KB   build/static/css/main.43eca2ac.chunk.css
+ DEBUG [49de40fc] 	  74.51 KB   build/static/js/main.a868465d.chunk.js
+ DEBUG [49de40fc] 	  61.25 KB   build/static/js/13.2649b113.chunk.js
+ DEBUG [49de40fc] 	  54.31 KB   build/static/js/16.e57b1840.chunk.js
+ DEBUG [49de40fc] 	  43.88 KB   build/static/js/33.85cab744.chunk.js
+ DEBUG [49de40fc] 	  36.5 KB    build/static/js/25.e74e1fd1.chunk.js
+ DEBUG [49de40fc] 	  32.04 KB   build/static/js/14.eafbac8b.chunk.js
+ DEBUG [49de40fc] 	  30.44 KB   build/static/js/40.16cc45e9.chunk.js
+ DEBUG [49de40fc] 	  28.58 KB   build/static/js/44.ae0e28c3.chunk.js
+ DEBUG [49de40fc] 	  27.5 KB    build/static/js/36.d8a5905f.chunk.js
+ DEBUG [49de40fc] 	  27.47 KB   build/static/js/42.514fb5ef.chunk.js
+ DEBUG [49de40fc] 	  27.45 KB   build/static/js/43.634ffd53.chunk.js
+ DEBUG [49de40fc] 	  25.77 KB   build/static/js/28.ea010755.chunk.js
+ DEBUG [49de40fc] 	  22.9 KB    build/static/js/2.138d34d6.chunk.js
+ DEBUG [49de40fc] 	  20.96 KB   build/static/js/114.35504c9a.chunk.js
+ DEBUG [49de40fc] 	  20.75 KB   build/static/js/39.b4484541.chunk.js
+ DEBUG [49de40fc] 	  20.02 KB   build/static/js/38.77c43bf4.chunk.js
+ DEBUG [49de40fc] 	  19.53 KB   build/static/js/32.15b15096.chunk.js
+ DEBUG [49de40fc] 	  18.51 KB   build/static/js/29.0790b800.chunk.js
+ DEBUG [49de40fc] 	  17.8 KB    build/static/js/104.474efdc6.chunk.js
+ DEBUG [49de40fc] 	  17.7 KB    build/static/js/113.b914dd5a.chunk.js
+ DEBUG [49de40fc] 	  17.42 KB   build/static/js/30.0450fe0d.chunk.js
+ DEBUG [49de40fc] 	  16.08 KB   build/static/js/37.33578e70.chunk.js
+ DEBUG [49de40fc] 	  15.3 KB    build/static/js/9.837cddad.chunk.js
+ DEBUG [49de40fc] 	  15.06 KB   build/static/js/3.4bd2a571.chunk.js
+ DEBUG [49de40fc] 	  14.44 KB   build/static/js/31.6e411f61.chunk.js
+ DEBUG [49de40fc] 	  13.68 KB   build/static/css/13.63db7cdd.chunk.css
+ DEBUG [49de40fc] 	  12.93 KB   build/static/js/0.c07cb4d4.chunk.js
+ DEBUG [49de40fc] 	  12.24 KB   build/static/js/101.bad81f34.chunk.js
+ DEBUG [49de40fc] 	  11.49 KB   build/static/js/73.62d9b93b.chunk.js
+ DEBUG [49de40fc] 	  9.82 KB    build/static/js/49.ed95237b.chunk.js
+ DEBUG [49de40fc] 	  9.74 KB    build/static/css/34.91321154.chunk.css
+ DEBUG [49de40fc] 	  9.39 KB    build/static/js/45.b689db16.chunk.js
+ DEBUG [49de40fc] 	  9.37 KB    build/static/js/1.80547c66.chunk.js
+ DEBUG [49de40fc] 	  9.3 KB     build/static/js/133.e587a63f.chunk.js
+ DEBUG [49de40fc] 	  8.77 KB    build/static/js/111.7028c9e5.chunk.js
+ DEBUG [49de40fc] 	  8.65 KB    build/static/js/11.efb29874.chunk.js
+ DEBUG [49de40fc] 	  8.33 KB    build/static/js/65.3a579f0c.chunk.js
+ DEBUG [49de40fc] 	  8.22 KB    build/static/js/46.4fc06567.chunk.js
+ DEBUG [49de40fc] 	  7.59 KB    build/static/js/41.14cb78f1.chunk.js
+ DEBUG [49de40fc] 	  7.37 KB    build/static/js/64.c6f61403.chunk.js
+ DEBUG [49de40fc] 	  7.06 KB    build/static/css/24.bde8ec64.chunk.css
+ DEBUG [49de40fc] 	  6.93 KB    build/static/js/47.0c6d456d.chunk.js
+ DEBUG [49de40fc] 	  6.68 KB    build/static/js/50.a436c631.chunk.js
+ DEBUG [49de40fc] 	  6.56 KB    build/static/js/54.6da89382.chunk.js
+ DEBUG [49de40fc] 	  6.5 KB     build/static/js/58.d7c77071.chunk.js
+ DEBUG [49de40fc] 	  6.23 KB    build/static/js/48.ccea8eb0.chunk.js
+ DEBUG [49de40fc] 	  6.22 KB    build/static/js/103.9a265843.chunk.js
+ DEBUG [49de40fc] 	  6.2 KB     build/static/js/63.9df2f415.chunk.js
+ DEBUG [49de40fc] 	  6.13 KB    build/static/js/119.344bbe69.chunk.js
+ DEBUG [49de40fc] 	  6.06 KB    build/static/css/23.6e9a2375.chunk.css
+ DEBUG [49de40fc] 	  6.04 KB    build/static/js/68.f0e70a98.chunk.js
+ DEBUG [49de40fc] 	  5.72 KB    build/static/js/137.e3f7dbf9.chunk.js
+ DEBUG [49de40fc] 	  5.72 KB    build/static/js/4.b4f765e1.chunk.js
+ DEBUG [49de40fc] 	  5.68 KB    build/static/js/121.35dce6ea.chunk.js
+ DEBUG [49de40fc] 	  5.62 KB    build/static/js/108.dc873500.chunk.js
+ DEBUG [49de40fc] 	  5.62 KB    build/static/js/92.51b82b23.chunk.js
+ DEBUG [49de40fc] 	  5.6 KB     build/static/js/83.698d8bd4.chunk.js
+ DEBUG [49de40fc] 	  5.59 KB    build/static/js/62.d068a814.chunk.js
+ DEBUG [49de40fc] 	  5.45 KB    build/static/js/8.445ac926.chunk.js
+ DEBUG [49de40fc] 	  5.34 KB    build/static/css/39.265b899d.chunk.css
+ DEBUG [49de40fc] 	  5.32 KB    build/static/js/107.15f48674.chunk.js
+ DEBUG [49de40fc] 	  5.23 KB    build/static/css/36.11cb4341.chunk.css
+ DEBUG [49de40fc] 	  5.18 KB    build/static/js/52.a72df50b.chunk.js
+ DEBUG [49de40fc] 	  5.1 KB     build/static/js/35.2ec552d6.chunk.js
+ DEBUG [49de40fc] 	  5.01 KB    build/static/js/59.80c99fc1.chunk.js
+ DEBUG [49de40fc] 	  4.97 KB    build/static/js/57.c3ad768e.chunk.js
+ DEBUG [49de40fc] 	  4.89 KB    build/static/css/44.cbf27c3f.chunk.css
+ DEBUG [49de40fc] 	  4.89 KB    build/static/css/43.cbf27c3f.chunk.css
+ DEBUG [49de40fc] 	  4.89 KB    build/static/css/42.cbf27c3f.chunk.css
+ DEBUG [49de40fc] 	  4.83 KB    build/static/js/109.3404ee10.chunk.js
+ DEBUG [49de40fc] 	  4.79 KB    build/static/js/60.42316c44.chunk.js
+ DEBUG [49de40fc] 	  4.78 KB    build/static/js/74.5e59fd3b.chunk.js
+ DEBUG [49de40fc] 	  4.74 KB    build/static/js/56.08fee93a.chunk.js
+ DEBUG [49de40fc] 	  4.73 KB    build/static/js/67.fbf0e685.chunk.js
+ DEBUG [49de40fc] 	  4.55 KB    build/static/js/87.4d35f651.chunk.js
+ DEBUG [49de40fc] 	  4.47 KB    build/static/js/51.9dd7ba22.chunk.js
+ DEBUG [49de40fc] 	  4.46 KB    build/static/js/72.a83bfab9.chunk.js
+ DEBUG [49de40fc] 	  4.35 KB    build/static/css/40.bcf4d3e8.chunk.css
+ DEBUG [49de40fc] 	  4.26 KB    build/static/css/28.5578f13f.chunk.css
+ DEBUG [49de40fc] 	  4.21 KB    build/static/js/55.7506f44f.chunk.js
+ DEBUG [49de40fc] 	  4.21 KB    build/static/js/112.f3462e9d.chunk.js
+ DEBUG [49de40fc] 	  4.17 KB    build/static/js/78.473d0915.chunk.js
+ DEBUG [49de40fc] 	  4.12 KB    build/static/js/61.212e2aaf.chunk.js
+ DEBUG [49de40fc] 	  4.07 KB    build/static/js/125.9a06c578.chunk.js
+ DEBUG [49de40fc] 	  4.01 KB    build/static/js/120.dab566f0.chunk.js
+ DEBUG [49de40fc] 	  3.98 KB    build/static/js/66.a823a407.chunk.js
+ DEBUG [49de40fc] 	  3.92 KB    build/static/js/106.5574ab85.chunk.js
+ DEBUG [49de40fc] 	  3.9 KB     build/static/js/82.f3dc3b82.chunk.js
+ DEBUG [49de40fc] 	  3.89 KB    build/static/js/145.1b46fe2a.chunk.js
+ DEBUG [49de40fc] 	  3.86 KB    build/static/js/81.ec2b4152.chunk.js
+ DEBUG [49de40fc] 	  3.86 KB    build/static/js/76.a1a2070e.chunk.js
+ DEBUG [49de40fc] 	  3.86 KB    build/static/js/93.78cd1d37.chunk.js
+ DEBUG [49de40fc] 	  3.76 KB    build/static/js/98.40a49eca.chunk.js
+ DEBUG [49de40fc] 	  3.65 KB    build/static/js/95.5f14bbd8.chunk.js
+ DEBUG [49de40fc] 	  3.63 KB    build/static/css/26.324b8cd9.chunk.css
+ DEBUG [49de40fc] 	  3.61 KB    build/static/js/97.e6d80c54.chunk.js
+ DEBUG [49de40fc] 	  3.61 KB    build/static/js/94.c9934e3f.chunk.js
+ DEBUG [49de40fc] 	  3.58 KB    build/static/js/144.cf6d5215.chunk.js
+ DEBUG [49de40fc] 	  3.58 KB    build/static/js/96.5bad138c.chunk.js
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/105.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/126.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/102.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/17.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/15.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.56 KB    build/static/css/6.a11f9b80.chunk.css
+ DEBUG [49de40fc] 	  3.53 KB    build/static/js/runtime-main.aa9bb9e7.js
+ DEBUG [49de40fc] 	  3.52 KB    build/static/js/123.a9b5b8c8.chunk.js
+ DEBUG [49de40fc] 	  3.45 KB    build/static/js/71.83c295eb.chunk.js
+ DEBUG [49de40fc] 	  3.45 KB    build/static/js/69.2c9ef0db.chunk.js
+ DEBUG [49de40fc] 	  3.42 KB    build/static/js/53.307973dd.chunk.js
+ DEBUG [49de40fc] 	  3.4 KB     build/static/js/88.48c75053.chunk.js
+ DEBUG [49de40fc] 	  3.34 KB    build/static/js/70.a9e65712.chunk.js
+ DEBUG [49de40fc] 	  3.25 KB    build/static/js/91.b682e50a.chunk.js
+ DEBUG [49de40fc] 	  3.25 KB    build/static/js/85.7c17e0ca.chunk.js
+ DEBUG [49de40fc] 	  3.24 KB    build/static/js/122.951cfe69.chunk.js
+ DEBUG [49de40fc] 	  3.2 KB     build/static/js/75.1ec481ae.chunk.js
+ DEBUG [49de40fc] 	  3.17 KB    build/static/js/84.97a4c654.chunk.js
+ DEBUG [49de40fc] 	  3.14 KB    build/static/css/7.920a7453.chunk.css
+ DEBUG [49de40fc] 	  3.13 KB    build/static/css/73.2c73bc17.chunk.css
+ DEBUG [49de40fc] 	  3.09 KB    build/static/js/148.0bb9dc1f.chunk.js
+ DEBUG [49de40fc] 	  3.06 KB    build/static/css/22.cfa759b8.chunk.css
+ DEBUG [49de40fc] 	  2.96 KB    build/static/js/89.2b7a1a11.chunk.js
+ DEBUG [49de40fc] 	  2.82 KB    build/static/js/141.368cc047.chunk.js
+ DEBUG [49de40fc] 	  2.82 KB    build/static/js/86.cc493321.chunk.js
+ DEBUG [49de40fc] 	  2.78 KB    build/static/js/77.fc9221c5.chunk.js
+ DEBUG [49de40fc] 	  2.75 KB    build/static/js/79.c83e9793.chunk.js
+ DEBUG [49de40fc] 	  2.73 KB    build/static/js/132.1beb3aba.chunk.js
+ DEBUG [49de40fc] 	  2.69 KB    build/static/js/12.aabc30a1.chunk.js
+  2.65 KB    build/static/js/100.f16d3f8d.chunk.js
+ DEBUG [49de40fc] 	  2.63 KB    build/static/js/116.2df4907c.chunk.js
+ DEBUG [49de40fc] 	  2.48 KB    build/static/js/15.25276114.chunk.js
+ DEBUG [49de40fc] 	  2.44 KB    build/static/js/143.0bfd4872.chunk.js
+ DEBUG [49de40fc] 	  2.44 KB    build/static/js/130.522a5775.chunk.js
+ DEBUG [49de40fc] 	  2.41 KB    build/static/js/80.9c0f4bc4.chunk.js
+ DEBUG [49de40fc] 	  2.41 KB    build/static/css/54.f613897b.chunk.css
+ DEBUG [49de40fc] 	  2.41 KB    build/static/css/37.4c6464fa.chunk.css
+ DEBUG [49de40fc] 	  2.4 KB     build/static/js/90.3958c9d5.chunk.js
+ DEBUG [49de40fc] 	  2.39 KB    build/static/js/99.78dc7f99.chunk.js
+ DEBUG [49de40fc] 	  2.28 KB    build/static/js/139.d1efeff8.chunk.js
+ DEBUG [49de40fc] 	  2.19 KB    build/static/js/138.1670e039.chunk.js
+ DEBUG [49de40fc] 	  2.13 KB    build/static/js/131.71b53589.chunk.js
+ DEBUG [49de40fc] 	  2.01 KB    build/static/js/110.765f9154.chunk.js
+ DEBUG [49de40fc] 	  1.86 KB    build/static/js/124.fd725252.chunk.js
+ DEBUG [49de40fc] 	  1.83 KB    build/static/js/115.e25e18d9.chunk.js
+ DEBUG [49de40fc] 	  1.79 KB    build/static/css/55.f6ed5e68.chunk.css
+ DEBUG [49de40fc] 	  1.78 KB    build/static/css/41.cf65a3dc.chunk.css
+ DEBUG [49de40fc] 	  1.72 KB    build/static/css/120.941581e0.chunk.css
+ DEBUG [49de40fc] 	  1.68 KB    build/static/js/117.b93f326b.chunk.js
+ DEBUG [49de40fc] 	  1.6 KB     build/static/js/142.82060cdd.chunk.js
+ DEBUG [49de40fc] 	  1.58 KB    build/static/js/146.2429ee1c.chunk.js
+ DEBUG [49de40fc] 	  1.57 KB    build/static/js/105.ebf206ac.chunk.js
+ DEBUG [49de40fc] 	  1.5 KB     build/static/css/101.7a26e190.chunk.css
+ DEBUG [49de40fc] 	  1.47 KB    build/static/css/133.2a5455c3.chunk.css
+ DEBUG [49de40fc] 	  1.46 KB    build/static/css/27.3c12b53f.chunk.css
+ DEBUG [49de40fc] 	  1.45 KB    build/static/js/102.808c25c2.chunk.js
+ DEBUG [49de40fc] 	  1.42 KB    build/static/js/118.c91acca7.chunk.js
+ DEBUG [49de40fc] 	  1.42 KB    build/static/js/149.cb50a6d7.chunk.js
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/95.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/96.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/46.353ee4f5.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/65.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/8.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/81.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/82.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/83.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/49.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/94.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.38 KB    build/static/css/97.85f57130.chunk.css
+ DEBUG [49de40fc] 	  1.3 KB     build/static/js/128.9a752127.chunk.js
+ DEBUG [49de40fc] 	  1.29 KB    build/static/js/6.c84dde6e.chunk.js
+ DEBUG [49de40fc] 	  1.28 KB    build/static/js/147.df0c483d.chunk.js
+ DEBUG [49de40fc] 	  1.28 KB    build/static/js/129.0f0c8754.chunk.js
+ DEBUG [49de40fc] 	  1.28 KB    build/static/js/140.b6d7f790.chunk.js
+ DEBUG [49de40fc] 	  1.27 KB    build/static/css/100.45ec420c.chunk.css
+ DEBUG [49de40fc] 	  1.27 KB    build/static/css/29.45ec420c.chunk.css
+ DEBUG [49de40fc] 	  1.2 KB     build/static/css/131.e019b552.chunk.css
+ DEBUG [49de40fc] 	  1.19 KB    build/static/css/123.9213edf4.chunk.css
+ DEBUG [49de40fc] 	  1.18 KB    build/static/js/127.66de2b29.chunk.js
+ DEBUG [49de40fc] 	  1.15 KB    build/static/css/113.b0819b82.chunk.css
+ DEBUG [49de40fc] 	  1.12 KB    build/static/css/119.974eb5e1.chunk.css
+ DEBUG [49de40fc] 	  1.12 KB    build/static/css/127.974eb5e1.chunk.css
+ DEBUG [49de40fc] 	  1.12 KB    build/static/css/128.974eb5e1.chunk.css
+ DEBUG [49de40fc] 	  1.09 KB    build/static/css/112.ffc63b12.chunk.css
+ DEBUG [49de40fc] 	  1.09 KB    build/static/js/17.aacdd2f4.chunk.js
+ DEBUG [49de40fc] 	  1.03 KB    build/static/css/30.37ddf195.chunk.css
+ DEBUG [49de40fc] 	  1.02 KB    build/static/css/9.582a21cb.chunk.css
+ DEBUG [49de40fc] 	  1.02 KB    build/static/css/31.a4d39fe8.chunk.css
+ DEBUG [49de40fc] 	  986 B      build/static/js/134.f4c3b137.chunk.js
+ DEBUG [49de40fc] 	  822 B      build/static/css/64.7da0b64e.chunk.css
+ DEBUG [49de40fc] 	  804 B      build/static/css/38.62da8d8b.chunk.css
+ DEBUG [49de40fc] 	  744 B      build/static/js/135.c1aad618.chunk.js
+ DEBUG [49de40fc] 	  742 B      build/static/js/126.b79e5829.chunk.js
+ DEBUG [49de40fc] 	  624 B      build/static/css/132.d9943e11.chunk.css
+ DEBUG [49de40fc] 	  538 B      build/static/js/151.7a88628a.chunk.js
+ DEBUG [49de40fc] 	  534 B      build/static/css/134.4d8afffb.chunk.css
+ DEBUG [49de40fc] 	  504 B      build/static/js/152.f753b86b.chunk.js
+ DEBUG [49de40fc] 	  502 B      build/static/js/19.02f39005.chunk.js
+ DEBUG [49de40fc] 	  502 B      build/static/js/150.77362c89.chunk.js
+ DEBUG [49de40fc] 	  495 B      build/static/js/18.41a9f883.chunk.js
+ DEBUG [49de40fc] 	  487 B      build/static/css/135.36210bba.chunk.css
+ DEBUG [49de40fc] 	  431 B      build/static/css/130.7cbd1968.chunk.css
+ DEBUG [49de40fc] 	  388 B      build/static/css/121.c5a89f4a.chunk.css
+ DEBUG [49de40fc] 	  330 B      build/static/css/129.89f1416a.chunk.css
+ DEBUG [49de40fc] 	  292 B      build/static/js/136.7d8bfe87.chunk.js
+ DEBUG [49de40fc] 	  278 B      build/static/css/80.4bcde76c.chunk.css
+ DEBUG [49de40fc] 	  278 B      build/static/css/53.4bcde76c.chunk.css
+ DEBUG [49de40fc] 	  276 B      build/static/css/136.46e1f9d4.chunk.css
+ DEBUG [49de40fc] 	  276 B      build/static/css/18.46e1f9d4.chunk.css
+ DEBUG [49de40fc] 	  276 B      build/static/css/19.46e1f9d4.chunk.css
+ DEBUG [49de40fc] 	  274 B      build/static/css/72.2e6c3880.chunk.css
+ DEBUG [49de40fc] 	  230 B      build/static/css/110.f6428df3.chunk.css
+ DEBUG [49de40fc] 	  229 B      build/static/css/117.f6428df3.chunk.css
+ DEBUG [49de40fc] 	  198 B      build/static/css/71.2afb4b3b.chunk.css
+ DEBUG [49de40fc] 	  193 B      build/static/css/74.292b5a4d.chunk.css
+ DEBUG [49de40fc] 	
+ DEBUG [49de40fc] 	The project was built assuming it is hosted at /.
+ DEBUG [49de40fc] 	You can control this with the homepage field in your package.json.
+ DEBUG [49de40fc] 	
+ DEBUG [49de40fc] 	The build folder is ready to be deployed.
+ DEBUG [49de40fc] 	You may serve it with a static server:
+ DEBUG [49de40fc] 	
+ DEBUG [49de40fc] 	  yarn global add serve
+ DEBUG [49de40fc] 	  serve -s build
+ DEBUG [49de40fc] 	
+ DEBUG [49de40fc] 	Find out more about deployment here:
+ DEBUG [49de40fc] 	
+ DEBUG [49de40fc] 	  https://cra.link/deployment
+ DEBUG [49de40fc] 	
+  INFO [49de40fc] Finished in 360.272 seconds with exit status 0 (successful).
+  INFO ---------------------------------------------------------------------------
+  INFO START 2022-07-05 19:05:29 +0500 cap staging deploy
+  INFO ---------------------------------------------------------------------------
+  INFO [ef07116d] Running /usr/bin/env mkdir -p /home/live/tmp as live@173.249.30.193
+ DEBUG [ef07116d] Command: /usr/bin/env mkdir -p /home/live/tmp
+  INFO [ef07116d] Finished in 4.320 seconds with exit status 0 (successful).
+ DEBUG Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 0.0%
+  INFO Uploading /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh 100.0%
+  INFO [469a88d5] Running /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh as live@173.249.30.193
+ DEBUG [469a88d5] Command: /usr/bin/env chmod 700 /home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh
+  INFO [469a88d5] Finished in 0.890 seconds with exit status 0 (successful).
+  INFO [01eb064c] Running /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD as live@173.249.30.193
+ DEBUG [01eb064c] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git ls-remote ssh://git@gitrepos.com:222/react/FreshaFrontend.git HEAD )
+ DEBUG [01eb064c] 	618b3abacb47aac9758722686bd44b3d06dc1e8c	HEAD
+  INFO [01eb064c] Finished in 2.791 seconds with exit status 0 (successful).
+  INFO [de84bb5a] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [de84bb5a] Command: /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/shared /home/live/FreshaFrontEnd/releases
+  INFO [de84bb5a] Finished in 0.590 seconds with exit status 0 (successful).
+ DEBUG [1c048535] Running [ -f /home/live/FreshaFrontEnd/current/REVISION ] as live@173.249.30.193
+ DEBUG [1c048535] Command: [ -f /home/live/FreshaFrontEnd/current/REVISION ]
+ DEBUG [1c048535] Finished in 0.921 seconds with exit status 0 (successful).
+ DEBUG [0df0283c] Running /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null as live@173.249.30.193
+ DEBUG [0df0283c] Command: /usr/bin/env cat /home/live/FreshaFrontEnd/current/REVISION 2>/dev/null
+ DEBUG [0df0283c] 	4b459d504a6bc3a03cdb7eb53f4143e31da0e95e
+ DEBUG [0df0283c] Finished in 1.027 seconds with exit status 0 (successful).
+ DEBUG [a264dfdf] Running [ -f /home/live/FreshaFrontEnd/repo/HEAD ] as live@173.249.30.193
+ DEBUG [a264dfdf] Command: [ -f /home/live/FreshaFrontEnd/repo/HEAD ]
+ DEBUG [a264dfdf] Finished in 0.795 seconds with exit status 0 (successful).
+  INFO The repository mirror is at /home/live/FreshaFrontEnd/repo
+ DEBUG [47fcc3f9] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [47fcc3f9] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [47fcc3f9] Finished in 0.836 seconds with exit status 0 (successful).
+  INFO [164e3cec] Running /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git as live@173.249.30.193
+ DEBUG [164e3cec] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote set-url origin ssh://git@gitrepos.com:222/react/FreshaFrontend.git )
+  INFO [164e3cec] Finished in 1.022 seconds with exit status 0 (successful).
+  INFO [4579489b] Running /usr/bin/env git remote update --prune as live@173.249.30.193
+ DEBUG [4579489b] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [4579489b] 	Fetching origin
+ DEBUG [4579489b] 	From ssh://gitrepos.com:222/react/FreshaFrontend
+ DEBUG [4579489b] 	   3e6c827..d1d1ce2  haseeb     -> haseeb
+ DEBUG [4579489b] 	   95ddd1f..deb8ee1  jahanzaib  -> jahanzaib
+ DEBUG [4579489b] 	   4b459d5..2e49342  master     -> master
+  INFO [4579489b] Finished in 3.050 seconds with exit status 0 (successful).
+ DEBUG [ff8f9daa] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [ff8f9daa] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [ff8f9daa] Finished in 0.750 seconds with exit status 0 (successful).
+  INFO [96c028d4] Running /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220705140559 as live@173.249.30.193
+ DEBUG [96c028d4] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env mkdir -p /home/live/FreshaFrontEnd/releases/20220705140559 )
+  INFO [96c028d4] Finished in 0.808 seconds with exit status 0 (successful).
+  INFO [a060c268] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220705140559 as live@173.249.30.193
+ DEBUG [a060c268] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/live/FreshaFrontEnd/releases/20220705140559 )
+  INFO [a060c268] Finished in 1.330 seconds with exit status 0 (successful).
+ DEBUG [9c85a090] Running if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [9c85a090] Command: if test ! -d /home/live/FreshaFrontEnd/repo; then echo "Directory does not exist '/home/live/FreshaFrontEnd/repo'" 1>&2; false; fi
+ DEBUG [9c85a090] Finished in 0.711 seconds with exit status 0 (successful).
+ DEBUG [c6c936b2] Running /usr/bin/env git rev-list --max-count=1 master as live@173.249.30.193
+ DEBUG [c6c936b2] Command: cd /home/live/FreshaFrontEnd/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/home/live/tmp/git-ssh-freshaFrontEnd-staging-danish.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [c6c936b2] 	2e49342b4c7df1b0d7c03d8e469851f0871c400a
+ DEBUG [c6c936b2] Finished in 1.023 seconds with exit status 0 (successful).
+ DEBUG [b4d63850] Running if test ! -d /home/live/FreshaFrontEnd/releases/20220705140559; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220705140559'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [b4d63850] Command: if test ! -d /home/live/FreshaFrontEnd/releases/20220705140559; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases/20220705140559'" 1>&2; false; fi
+ DEBUG [b4d63850] Finished in 0.820 seconds with exit status 0 (successful).
+  INFO [f88f8fc8] Running /usr/bin/env echo "2e49342b4c7df1b0d7c03d8e469851f0871c400a" > REVISION as live@173.249.30.193
+ DEBUG [f88f8fc8] Command: cd /home/live/FreshaFrontEnd/releases/20220705140559 && /usr/bin/env echo "2e49342b4c7df1b0d7c03d8e469851f0871c400a" > REVISION
+  INFO [f88f8fc8] Finished in 0.930 seconds with exit status 0 (successful).
+  INFO [2be9ba96] Running /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220705140559 /home/live/FreshaFrontEnd/releases/current as live@173.249.30.193
+ DEBUG [2be9ba96] Command: /usr/bin/env ln -s /home/live/FreshaFrontEnd/releases/20220705140559 /home/live/FreshaFrontEnd/releases/current
+  INFO [2be9ba96] Finished in 0.907 seconds with exit status 0 (successful).
+  INFO [1e4ca1b8] Running /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd as live@173.249.30.193
+ DEBUG [1e4ca1b8] Command: /usr/bin/env mv /home/live/FreshaFrontEnd/releases/current /home/live/FreshaFrontEnd
+  INFO [1e4ca1b8] Finished in 0.720 seconds with exit status 0 (successful).
+ DEBUG [f06960ec] Running /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases as live@173.249.30.193
+ DEBUG [f06960ec] Command: /usr/bin/env ls -x /home/live/FreshaFrontEnd/releases
+ DEBUG [f06960ec] 	20220603155343	20220606080827	20220622131304	20220628155834	20220629122644
+20220704134631	20220704141720	20220705140559
+ DEBUG [f06960ec] Finished in 1.024 seconds with exit status 0 (successful).
+ DEBUG [5bcebc9e] Running if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [5bcebc9e] Command: if test ! -d /home/live/FreshaFrontEnd/releases; then echo "Directory does not exist '/home/live/FreshaFrontEnd/releases'" 1>&2; false; fi
+ DEBUG [5bcebc9e] Finished in 0.935 seconds with exit status 0 (successful).
+  INFO [bb1fade2] Running /usr/bin/env echo "Branch master (at 2e49342b4c7df1b0d7c03d8e469851f0871c400a) deployed as release 20220705140559 by danish" >> /home/live/FreshaFrontEnd/revisions.log as live@173.249.30.193
+ DEBUG [bb1fade2] Command: cd /home/live/FreshaFrontEnd/releases && /usr/bin/env echo "Branch master (at 2e49342b4c7df1b0d7c03d8e469851f0871c400a) deployed as release 20220705140559 by danish" >> /home/live/FreshaFrontEnd/revisions.log
+  INFO [bb1fade2] Finished in 0.794 seconds with exit status 0 (successful).
+ DEBUG [c72a3571] Running if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi as live@173.249.30.193
+ DEBUG [c72a3571] Command: if test ! -d /home/live/FreshaFrontEnd/current; then echo "Directory does not exist '/home/live/FreshaFrontEnd/current'" 1>&2; false; fi
+ DEBUG [c72a3571] Finished in 0.823 seconds with exit status 0 (successful).
+  INFO [fd9c16f5] Running /usr/bin/env npm install as live@173.249.30.193
+ DEBUG [fd9c16f5] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm install
+ DEBUG [fd9c16f5] 	
+> node-sass@4.14.1 install /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/node-sass
+> node scripts/install.js
+
+ DEBUG [fd9c16f5] 	Cached binary found at /home/live/.npm/node-sass/4.14.1/linux-x64-64_binding.node
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/core/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/dashboard/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/drag-drop/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/dropbox/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/facebook/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/file-input/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/google-drive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/informer/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/instagram/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/onedrive/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/progress-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/provider-views/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/screen-capture/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/status-bar/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/url/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> preact@8.2.9 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/@uppy/webcam/node_modules/preact
+> node -e "console.log('\u001b[35m\u001b[1mLove Preact? You can now donate to our open collective:\u001b[22m\u001b[39m\n > \u001b[34mhttps://opencollective.com/preact/donate\u001b[0m')"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Preact? You can now donate to our open collective:[22m[39m
+ > [34mhttps://opencollective.com/preact/donate[0m
+ DEBUG [fd9c16f5] 	
+> core-js@2.6.12 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [fd9c16f5] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [fd9c16f5] 	
+> core-js-pure@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [fd9c16f5] 	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js:[0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://patreon.com/zloirock [0m
+[96m>[94m bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
+ DEBUG [fd9c16f5] 	
+> ejs@2.7.4 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/ejs
+> node ./postinstall.js
+
+ DEBUG [fd9c16f5] 	Thank you for installing [35mEJS[0m: built with the [32mJake[0m JavaScript build tool ([32mhttps://jakejs.com/[0m)
+
+ DEBUG [fd9c16f5] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/fbjs/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [fd9c16f5] 	
+> core-js@3.22.8 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/react-app-polyfill/node_modules/core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+ DEBUG [fd9c16f5] 	
+> styled-components@4.4.1 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/react-simple-multi-select/node_modules/styled-components
+> node ./scripts/postinstall.js || exit 0
+
+ DEBUG [fd9c16f5] 	Use styled-components at work? Consider supporting our development efforts at https://opencollective.com/styled-components
+ DEBUG [fd9c16f5] 	
+> es5-ext@0.10.61 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/es5-ext
+>  node -e "try{require('./_postinstall')}catch(e){}" || exit 0
+
+ DEBUG [fd9c16f5] 	
+> node-sass@4.14.1 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/node-sass
+> node scripts/build.js
+
+ DEBUG [fd9c16f5] 	Binary found at /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/node-sass/vendor/linux-x64-64/binding.node
+ DEBUG [fd9c16f5] 	Testing binary
+ DEBUG [fd9c16f5] 	Binary is fine
+ DEBUG [fd9c16f5] 	
+> swiper@6.0.4 postinstall /home/live/FreshaFrontEnd/releases/20220705140559/node_modules/swiper
+> echo "[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+"
+
+ DEBUG [fd9c16f5] 	[35m[1mLove Swiper? Support Vladimir's work by donating or pledging on patreon:[22m[39m
+ > [32mhttps://patreon.com/vladimirkharlampidi[0m
+
+ DEBUG [fd9c16f5] 	npm WARN 
+ DEBUG [fd9c16f5] 	optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/webpack-dev-server/node_modules/fsevents):
+ DEBUG [fd9c16f5] 	npm
+ DEBUG [fd9c16f5] 	 
+ DEBUG [fd9c16f5] 	WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [fd9c16f5] 	npm 
+ DEBUG [fd9c16f5] 	WARN
+ DEBUG [fd9c16f5] 	 optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules/watchpack-chokidar2/node_modules/fsevents):
+ DEBUG [fd9c16f5] 	npm WARN
+ DEBUG [fd9c16f5] 	 notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [fd9c16f5] 	npm 
+ DEBUG [fd9c16f5] 	WARN
+ DEBUG [fd9c16f5] 	 optional
+ DEBUG [fd9c16f5] 	 SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules/fsevents):
+ DEBUG [fd9c16f5] 	npm
+ DEBUG [fd9c16f5] 	 WARN
+ DEBUG [fd9c16f5] 	 
+ DEBUG [fd9c16f5] 	notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+ DEBUG [fd9c16f5] 	
+ DEBUG [fd9c16f5] 	added 2556 packages from 1389 contributors and audited 2566 packages in 84.973s
+ DEBUG [fd9c16f5] 	
+180 packages are looking for funding
+  run `npm fund` for details
+
+ DEBUG [fd9c16f5] 	found 48 vulnerabilities (2 low, 12 moderate, 30 high, 4 critical)
+  run `npm audit fix` to fix them, or `npm audit` for details
+  INFO [fd9c16f5] Finished in 91.690 seconds with exit status 0 (successful).
+  INFO [0c861795] Running /usr/bin/env npm run build as live@173.249.30.193
+ DEBUG [0c861795] Command: cd /home/live/FreshaFrontEnd/current && /usr/bin/env npm run build
+ DEBUG [0c861795] 	
+> vuexy-react-admin-dashboard@6.4.0 build /home/live/FreshaFrontEnd/releases/20220705140559
+> react-app-rewired build
+
+ DEBUG [0c861795] 	Creating an optimized production build...
+ DEBUG [0c861795] 	Compiled successfully.
+
+File sizes after gzip:
+
+ DEBUG [0c861795] 	  341.29 KB  build/static/js/10.b3001c1b.chunk.js
+ DEBUG [0c861795] 	  279.85 KB  build/static/js/23.70a9b2c2.chunk.js
+ DEBUG [0c861795] 	  277.71 KB  build/static/js/22.fdfb1e96.chunk.js
+ DEBUG [0c861795] 	  124.79 KB  build/static/js/7.cc331a83.chunk.js
+ DEBUG [0c861795] 	  119.77 KB  build/static/js/5.70d6baa3.chunk.js
+ DEBUG [0c861795] 	  117.91 KB  build/static/js/24.1ea19354.chunk.js
+  114.93 KB  build/static/js/34.f90e203f.chunk.js
+ DEBUG [0c861795] 	  110.23 KB  build/static/js/26.f8a231d0.chunk.js
+ DEBUG [0c861795] 	  104.94 KB  build/static/js/27.70b3d480.chunk.js
+ DEBUG [0c861795] 	  89.66 KB   build/static/css/main.43eca2ac.chunk.css
+ DEBUG [0c861795] 	  74.51 KB   build/static/js/main.1d08255d.chunk.js
+ DEBUG [0c861795] 	  61.25 KB   build/static/js/13.2649b113.chunk.js
+ DEBUG [0c861795] 	  54.31 KB   build/static/js/16.e57b1840.chunk.js
+ DEBUG [0c861795] 	  43.88 KB   build/static/js/33.f111ae89.chunk.js
+ DEBUG [0c861795] 	  36.5 KB    build/static/js/25.e74e1fd1.chunk.js
+ DEBUG [0c861795] 	  32.04 KB   build/static/js/14.be58f9f7.chunk.js
+ DEBUG [0c861795] 	  30.44 KB   build/static/js/40.16cc45e9.chunk.js
+ DEBUG [0c861795] 	  28.58 KB   build/static/js/44.ee1c1091.chunk.js
+ DEBUG [0c861795] 	  27.5 KB    build/static/js/36.bb246585.chunk.js
+ DEBUG [0c861795] 	  27.47 KB   build/static/js/42.b0266a1f.chunk.js
+ DEBUG [0c861795] 	  27.45 KB   build/static/js/43.c26819cc.chunk.js
+ DEBUG [0c861795] 	  25.77 KB   build/static/js/28.1b9b6195.chunk.js
+ DEBUG [0c861795] 	  22.9 KB    build/static/js/2.138d34d6.chunk.js
+ DEBUG [0c861795] 	  20.96 KB   build/static/js/114.35504c9a.chunk.js
+ DEBUG [0c861795] 	  20.75 KB   build/static/js/39.bdffab59.chunk.js
+ DEBUG [0c861795] 	  20.02 KB   build/static/js/38.383e7ecd.chunk.js
+ DEBUG [0c861795] 	  19.53 KB   build/static/js/32.15b15096.chunk.js
+ DEBUG [0c861795] 	  18.5 KB    build/static/js/29.578ca020.chunk.js
+ DEBUG [0c861795] 	  17.8 KB    build/static/js/104.474efdc6.chunk.js
+ DEBUG [0c861795] 	  17.7 KB    build/static/js/113.b914dd5a.chunk.js
+ DEBUG [0c861795] 	  17.42 KB   build/static/js/30.6ec85707.chunk.js
+ DEBUG [0c861795] 	  16.08 KB   build/static/js/37.5412df8f.chunk.js
+ DEBUG [0c861795] 	  15.3 KB    build/static/js/9.403fdc95.chunk.js
+ DEBUG [0c861795] 	  15.06 KB   build/static/js/3.4bd2a571.chunk.js
+ DEBUG [0c861795] 	  14.45 KB   build/static/js/31.9066c959.chunk.js
+ DEBUG [0c861795] 	  13.68 KB   build/static/css/13.63db7cdd.chunk.css
+ DEBUG [0c861795] 	  12.93 KB   build/static/js/0.c07cb4d4.chunk.js
+ DEBUG [0c861795] 	  12.24 KB   build/static/js/101.bad81f34.chunk.js
+ DEBUG [0c861795] 	  11.49 KB   build/static/js/73.4100e719.chunk.js
+ DEBUG [0c861795] 	  9.82 KB    build/static/js/49.892e73f8.chunk.js
+ DEBUG [0c861795] 	  9.74 KB    build/static/css/34.91321154.chunk.css
+ DEBUG [0c861795] 	  9.39 KB    build/static/js/45.003982ee.chunk.js
+ DEBUG [0c861795] 	  9.37 KB    build/static/js/1.3a694d09.chunk.js
+ DEBUG [0c861795] 	  9.3 KB     build/static/js/133.2edd59f8.chunk.js
+ DEBUG [0c861795] 	  8.77 KB    build/static/js/111.7028c9e5.chunk.js
+ DEBUG [0c861795] 	  8.65 KB    build/static/js/11.efb29874.chunk.js
+ DEBUG [0c861795] 	  8.33 KB    build/static/js/65.e6589c03.chunk.js
+ DEBUG [0c861795] 	  8.22 KB    build/static/js/46.f44f785a.chunk.js
+ DEBUG [0c861795] 	  7.59 KB    build/static/js/41.54c13167.chunk.js
+ DEBUG [0c861795] 	  7.37 KB    build/static/js/64.1b5fe675.chunk.js
+ DEBUG [0c861795] 	  7.06 KB    build/static/css/24.bde8ec64.chunk.css
+  6.93 KB    build/static/js/47.2b8fa7f2.chunk.js
+  6.68 KB    build/static/js/50.7e3b5cae.chunk.js
+  6.56 KB    build/static/js/54.f4b8d2f9.chunk.js
+  6.5 KB     build/static/js/58.d7c77071.chunk.js
+  6.23 KB    build/static/js/48.24c08705.chunk.js
+  6.22 KB    build/static/js/103.92fb6aef.chunk.js
+  6.2 KB     build/static/js/63.080a4fc7.chunk.js
+ DEBUG [0c861795] 	  6.13 KB    build/static/js/119.fb0be2fd.chunk.js
+  6.06 KB    build/static/css/23.6e9a2375.chunk.css
+  6.04 KB    build/static/js/68.79a762cc.chunk.js
+ DEBUG [0c861795] 	  5.73 KB    build/static/js/137.8e165c0f.chunk.js
+ DEBUG [0c861795] 	  5.72 KB    build/static/js/4.b4f765e1.chunk.js
+ DEBUG [0c861795] 	  5.68 KB    build/static/js/121.3e542873.chunk.js
+ DEBUG [0c861795] 	  5.62 KB    build/static/js/108.dc873500.chunk.js
+ DEBUG [0c861795] 	  5.62 KB    build/static/js/92.51b82b23.chunk.js
+ DEBUG [0c861795] 	  5.6 KB     build/static/js/83.52b93300.chunk.js
+ DEBUG [0c861795] 	  5.59 KB    build/static/js/62.49b4becb.chunk.js
+ DEBUG [0c861795] 	  5.45 KB    build/static/js/8.893c3639.chunk.js
+ DEBUG [0c861795] 	  5.34 KB    build/static/css/39.265b899d.chunk.css
+ DEBUG [0c861795] 	  5.32 KB    build/static/js/107.19df0662.chunk.js
+ DEBUG [0c861795] 	  5.23 KB    build/static/css/36.11cb4341.chunk.css
+ DEBUG [0c861795] 	  5.18 KB    build/static/js/52.461df136.chunk.js
+ DEBUG [0c861795] 	  5.1 KB     build/static/js/35.625627b7.chunk.js
+ DEBUG [0c861795] 	  5.01 KB    build/static/js/59.4a69a0f8.chunk.js
+ DEBUG [0c861795] 	  4.97 KB    build/static/js/57.c3ad768e.chunk.js
+ DEBUG [0c861795] 	  4.89 KB    build/static/css/43.cbf27c3f.chunk.css
+ DEBUG [0c861795] 	  4.89 KB    build/static/css/42.cbf27c3f.chunk.css
+ DEBUG [0c861795] 	  4.89 KB    build/static/css/44.cbf27c3f.chunk.css
+ DEBUG [0c861795] 	  4.83 KB    build/static/js/109.0b22b8e5.chunk.js
+ DEBUG [0c861795] 	  4.79 KB    build/static/js/60.19997e29.chunk.js
+ DEBUG [0c861795] 	  4.78 KB    build/static/js/74.5e59fd3b.chunk.js
+ DEBUG [0c861795] 	  4.74 KB    build/static/js/56.08fee93a.chunk.js
+ DEBUG [0c861795] 	  4.72 KB    build/static/js/67.855ff767.chunk.js
+ DEBUG [0c861795] 	  4.55 KB    build/static/js/87.382892fd.chunk.js
+ DEBUG [0c861795] 	  4.47 KB    build/static/js/51.37bb8b98.chunk.js
+ DEBUG [0c861795] 	  4.47 KB    build/static/js/72.9f227ed3.chunk.js
+ DEBUG [0c861795] 	  4.35 KB    build/static/css/40.bcf4d3e8.chunk.css
+ DEBUG [0c861795] 	  4.26 KB    build/static/css/28.5578f13f.chunk.css
+ DEBUG [0c861795] 	  4.21 KB    build/static/js/55.c454272a.chunk.js
+ DEBUG [0c861795] 	  4.21 KB    build/static/js/112.f3462e9d.chunk.js
+ DEBUG [0c861795] 	  4.17 KB    build/static/js/78.a76292fd.chunk.js
+ DEBUG [0c861795] 	  4.12 KB    build/static/js/61.cc098558.chunk.js
+ DEBUG [0c861795] 	  4.07 KB    build/static/js/125.8d2df7a8.chunk.js
+ DEBUG [0c861795] 	  4.01 KB    build/static/js/120.187889fc.chunk.js
+ DEBUG [0c861795] 	  3.98 KB    build/static/js/66.632aed50.chunk.js
+ DEBUG [0c861795] 	  3.92 KB    build/static/js/106.e8cf6dd7.chunk.js
+ DEBUG [0c861795] 	  3.9 KB     build/static/js/82.4e7018af.chunk.js
+ DEBUG [0c861795] 	  3.89 KB    build/static/js/145.bd02a2bf.chunk.js
+ DEBUG [0c861795] 	  3.86 KB    build/static/js/81.08f2d1fb.chunk.js
+ DEBUG [0c861795] 	  3.86 KB    build/static/js/76.73473ef5.chunk.js
+ DEBUG [0c861795] 	  3.86 KB    build/static/js/93.ac6a0de6.chunk.js
+ DEBUG [0c861795] 	  3.76 KB    build/static/js/98.9258c6c6.chunk.js
+ DEBUG [0c861795] 	  3.65 KB    build/static/js/95.27a93be1.chunk.js
+ DEBUG [0c861795] 	  3.63 KB    build/static/css/26.324b8cd9.chunk.css
+ DEBUG [0c861795] 	  3.61 KB    build/static/js/97.8e6dc362.chunk.js
+ DEBUG [0c861795] 	  3.61 KB    build/static/js/94.5a28cdf8.chunk.js
+ DEBUG [0c861795] 	  3.58 KB    build/static/js/144.4d75b554.chunk.js
+ DEBUG [0c861795] 	  3.58 KB    build/static/js/96.9cb3147e.chunk.js
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/102.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/126.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/105.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/15.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/17.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.56 KB    build/static/css/6.a11f9b80.chunk.css
+ DEBUG [0c861795] 	  3.52 KB    build/static/js/123.e1c4c8ad.chunk.js
+ DEBUG [0c861795] 	  3.52 KB    build/static/js/runtime-main.8195e5d5.js
+ DEBUG [0c861795] 	  3.45 KB    build/static/js/71.83c295eb.chunk.js
+ DEBUG [0c861795] 	  3.45 KB    build/static/js/69.bd7a1092.chunk.js
+ DEBUG [0c861795] 	  3.42 KB    build/static/js/53.d52237be.chunk.js
+ DEBUG [0c861795] 	  3.4 KB     build/static/js/88.8ad458f7.chunk.js
+ DEBUG [0c861795] 	  3.34 KB    build/static/js/70.a9e65712.chunk.js
+ DEBUG [0c861795] 	  3.25 KB    build/static/js/91.b682e50a.chunk.js
+ DEBUG [0c861795] 	  3.25 KB    build/static/js/85.af4a627d.chunk.js
+ DEBUG [0c861795] 	  3.24 KB    build/static/js/122.c9d76f2b.chunk.js
+ DEBUG [0c861795] 	  3.2 KB     build/static/js/75.8bfebf68.chunk.js
+ DEBUG [0c861795] 	  3.17 KB    build/static/js/84.4c64b37b.chunk.js
+ DEBUG [0c861795] 	  3.14 KB    build/static/css/7.920a7453.chunk.css
+ DEBUG [0c861795] 	  3.13 KB    build/static/css/73.2c73bc17.chunk.css
+ DEBUG [0c861795] 	  3.09 KB    build/static/js/148.6dd04fca.chunk.js
+ DEBUG [0c861795] 	  3.06 KB    build/static/css/22.cfa759b8.chunk.css
+ DEBUG [0c861795] 	  2.96 KB    build/static/js/89.c9fe3705.chunk.js
+ DEBUG [0c861795] 	  2.82 KB    build/static/js/141.719b98e0.chunk.js
+ DEBUG [0c861795] 	  2.81 KB    build/static/js/86.a15a501e.chunk.js
+ DEBUG [0c861795] 	  2.78 KB    build/static/js/77.fc9221c5.chunk.js
+ DEBUG [0c861795] 	  2.75 KB    build/static/js/79.c83e9793.chunk.js
+ DEBUG [0c861795] 	  2.73 KB    build/static/js/132.1beb3aba.chunk.js
+ DEBUG [0c861795] 	  2.69 KB    build/static/js/12.aabc30a1.chunk.js
+ DEBUG [0c861795] 	  2.66 KB    build/static/js/100.8b30f586.chunk.js
+ DEBUG [0c861795] 	  2.63 KB    build/static/js/116.2df4907c.chunk.js
+ DEBUG [0c861795] 	  2.48 KB    build/static/js/15.25276114.chunk.js
+ DEBUG [0c861795] 	  2.44 KB    build/static/js/143.f6a59663.chunk.js
+ DEBUG [0c861795] 	  2.44 KB    build/static/js/130.38ecc4e3.chunk.js
+ DEBUG [0c861795] 	  2.41 KB    build/static/js/80.df6cc5f9.chunk.js
+ DEBUG [0c861795] 	  2.41 KB    build/static/css/54.f613897b.chunk.css
+ DEBUG [0c861795] 	  2.41 KB    build/static/css/37.4c6464fa.chunk.css
+ DEBUG [0c861795] 	  2.4 KB     build/static/js/90.0b12a4f3.chunk.js
+ DEBUG [0c861795] 	  2.39 KB    build/static/js/99.78dc7f99.chunk.js
+ DEBUG [0c861795] 	  2.28 KB    build/static/js/139.8f8e9790.chunk.js
+ DEBUG [0c861795] 	  2.19 KB    build/static/js/138.3af4aa23.chunk.js
+ DEBUG [0c861795] 	  2.13 KB    build/static/js/131.fa0f3ba6.chunk.js
+ DEBUG [0c861795] 	  2.01 KB    build/static/js/110.4d90ae45.chunk.js
+ DEBUG [0c861795] 	  1.86 KB    build/static/js/124.fd725252.chunk.js
+ DEBUG [0c861795] 	  1.83 KB    build/static/js/115.e25e18d9.chunk.js
+ DEBUG [0c861795] 	  1.79 KB    build/static/css/55.f6ed5e68.chunk.css
+ DEBUG [0c861795] 	  1.78 KB    build/static/css/41.cf65a3dc.chunk.css
+ DEBUG [0c861795] 	  1.72 KB    build/static/css/120.941581e0.chunk.css
+ DEBUG [0c861795] 	  1.68 KB    build/static/js/117.67c4c4af.chunk.js
+ DEBUG [0c861795] 	  1.6 KB     build/static/js/142.1ec8c347.chunk.js
+ DEBUG [0c861795] 	  1.58 KB    build/static/js/146.ad4ae6e4.chunk.js
+ DEBUG [0c861795] 	  1.57 KB    build/static/js/105.ebf206ac.chunk.js
+ DEBUG [0c861795] 	  1.5 KB     build/static/css/101.7a26e190.chunk.css
+ DEBUG [0c861795] 	  1.47 KB    build/static/css/133.2a5455c3.chunk.css
+ DEBUG [0c861795] 	  1.46 KB    build/static/css/27.3c12b53f.chunk.css
+ DEBUG [0c861795] 	  1.45 KB    build/static/js/102.808c25c2.chunk.js
+ DEBUG [0c861795] 	  1.42 KB    build/static/js/118.c91acca7.chunk.js
+ DEBUG [0c861795] 	  1.42 KB    build/static/js/149.2d11e0c5.chunk.js
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/96.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/95.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/8.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/81.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/82.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/83.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/46.353ee4f5.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/49.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/97.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/65.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.38 KB    build/static/css/94.85f57130.chunk.css
+ DEBUG [0c861795] 	  1.3 KB     build/static/js/128.70ea99ee.chunk.js
+ DEBUG [0c861795] 	  1.29 KB    build/static/js/6.c84dde6e.chunk.js
+ DEBUG [0c861795] 	  1.28 KB    build/static/js/147.df0c483d.chunk.js
+ DEBUG [0c861795] 	  1.28 KB    build/static/js/129.0f0c8754.chunk.js
+ DEBUG [0c861795] 	  1.28 KB    build/static/js/140.b6d7f790.chunk.js
+ DEBUG [0c861795] 	  1.27 KB    build/static/css/100.45ec420c.chunk.css
+ DEBUG [0c861795] 	  1.27 KB    build/static/css/29.45ec420c.chunk.css
+ DEBUG [0c861795] 	  1.2 KB     build/static/css/131.e019b552.chunk.css
+ DEBUG [0c861795] 	  1.19 KB    build/static/css/123.9213edf4.chunk.css
+ DEBUG [0c861795] 	  1.18 KB    build/static/js/127.6f8bbc48.chunk.js
+ DEBUG [0c861795] 	  1.15 KB    build/static/css/113.b0819b82.chunk.css
+ DEBUG [0c861795] 	  1.12 KB    build/static/css/119.974eb5e1.chunk.css
+ DEBUG [0c861795] 	  1.12 KB    build/static/css/127.974eb5e1.chunk.css
+ DEBUG [0c861795] 	  1.12 KB    build/static/css/128.974eb5e1.chunk.css
+ DEBUG [0c861795] 	  1.09 KB    build/static/css/112.ffc63b12.chunk.css
+ DEBUG [0c861795] 	  1.09 KB    build/static/js/17.aacdd2f4.chunk.js
+ DEBUG [0c861795] 	  1.03 KB    build/static/css/30.37ddf195.chunk.css
+ DEBUG [0c861795] 	  1.02 KB    build/static/css/9.582a21cb.chunk.css
+ DEBUG [0c861795] 	  1.02 KB    build/static/css/31.a4d39fe8.chunk.css
+ DEBUG [0c861795] 	  986 B      build/static/js/134.f4c3b137.chunk.js
+ DEBUG [0c861795] 	  822 B      build/static/css/64.7da0b64e.chunk.css
+ DEBUG [0c861795] 	  804 B      build/static/css/38.62da8d8b.chunk.css
+ DEBUG [0c861795] 	  744 B      build/static/js/135.00ed4391.chunk.js
+ DEBUG [0c861795] 	  742 B      build/static/js/126.b79e5829.chunk.js
+ DEBUG [0c861795] 	  624 B      build/static/css/132.d9943e11.chunk.css
+ DEBUG [0c861795] 	  538 B      build/static/js/151.7a88628a.chunk.js
+ DEBUG [0c861795] 	  534 B      build/static/css/134.4d8afffb.chunk.css
+ DEBUG [0c861795] 	  504 B      build/static/js/152.f753b86b.chunk.js
+ DEBUG [0c861795] 	  502 B      build/static/js/19.02f39005.chunk.js
+ DEBUG [0c861795] 	  502 B      build/static/js/150.77362c89.chunk.js
+ DEBUG [0c861795] 	  495 B      build/static/js/18.41a9f883.chunk.js
+ DEBUG [0c861795] 	  487 B      build/static/css/135.36210bba.chunk.css
+ DEBUG [0c861795] 	  431 B      build/static/css/130.7cbd1968.chunk.css
+ DEBUG [0c861795] 	  388 B      build/static/css/121.c5a89f4a.chunk.css
+ DEBUG [0c861795] 	  330 B      build/static/css/129.89f1416a.chunk.css
+ DEBUG [0c861795] 	  292 B      build/static/js/136.7d8bfe87.chunk.js
+ DEBUG [0c861795] 	  278 B      build/static/css/80.4bcde76c.chunk.css
+ DEBUG [0c861795] 	  278 B      build/static/css/53.4bcde76c.chunk.css
+ DEBUG [0c861795] 	  276 B      build/static/css/136.46e1f9d4.chunk.css
+ DEBUG [0c861795] 	  276 B      build/static/css/18.46e1f9d4.chunk.css
+ DEBUG [0c861795] 	  276 B      build/static/css/19.46e1f9d4.chunk.css
+ DEBUG [0c861795] 	  274 B      build/static/css/72.2e6c3880.chunk.css
+ DEBUG [0c861795] 	  230 B      build/static/css/110.f6428df3.chunk.css
+ DEBUG [0c861795] 	  229 B      build/static/css/117.f6428df3.chunk.css
+ DEBUG [0c861795] 	  198 B      build/static/css/71.2afb4b3b.chunk.css
+ DEBUG [0c861795] 	  193 B      build/static/css/74.292b5a4d.chunk.css
+ DEBUG [0c861795] 	
+ DEBUG [0c861795] 	The project was built assuming it is hosted at /.
+ DEBUG [0c861795] 	You can control this with the homepage field in your package.json.
+
+ DEBUG [0c861795] 	The build folder is ready to be deployed.
+ DEBUG [0c861795] 	You may serve it with a static server:
+
+ DEBUG [0c861795] 	  yarn global add serve
+ DEBUG [0c861795] 	  serve -s build
+ DEBUG [0c861795] 	
+ DEBUG [0c861795] 	Find out more about deployment here:
+ DEBUG [0c861795] 	
+ DEBUG [0c861795] 	  https://cra.link/deployment
+ DEBUG [0c861795] 	
+  INFO [0c861795] Finished in 461.083 seconds with exit status 0 (successful).
